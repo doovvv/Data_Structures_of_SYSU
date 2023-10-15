@@ -1,0 +1,26 @@
+The Knuth-Morris-Pratt (KMP) algorithm is a string-matching 
+algorithm that searches for occurrences of a pattern string 
+within a larger text string. It works by pre-processing the 
+pattern string to determine the longest proper prefix that 
+is also a suffix of each substring of the pattern. This 
+information is then used during the actual search to avoid 
+unnecessary comparisons and quickly skip over non-matching 
+sections of the text. 
+
+To demonstrate the effectiveness of the KMP algorithm, 
+we will use it to search for a specific pattern within a 
+large collection of documents. The pattern we are searching 
+for is "Lorem ipsum", a common placeholder text used in the 
+design industry. By using the KMP algorithm, we can efficiently 
+locate all occurrences of this pattern within our document 
+collection, without the need for manual searching or 
+brute-force techniques. 
+
+The KMP algorithm is widely used in applications that require 
+efficient string matching, such as text editors, compilers, 
+and data compression tools. Its ability to quickly identify
+patterns within large datasets makes it a valuable tool for
+both developers and end-users alike. By understanding the 
+inner workings of the KMP algorithm, we can gain a greater 
+appreciation for the power and versatility of modern computer 
+algorithms
