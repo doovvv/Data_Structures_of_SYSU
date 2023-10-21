@@ -1,7 +1,10 @@
 #include "Binary_Tree.h"
 #include "stack"
 using namespace std;
-int travel_prooredr(TreeNode* root){
+//访问根节点
+//右节点压栈，保存下右节点
+//访问左节点
+void travel_prooredr(TreeNode* root){
     stack<TreeNode*> ans;
     root->val = 0;
     ans.push(root);
@@ -10,11 +13,11 @@ int travel_prooredr(TreeNode* root){
         p = ans.top();
         //visit p
         ans.pop();
-        if(p->left){
-            ans.push(p->left);
-        }
         if(p->right){
             ans.push(p->right);
+        }
+        if(p->left){         //push leftchild into stack temporarily, next cycle will get it and visit it;
+            ans.push(p->left);
         }
 
     }

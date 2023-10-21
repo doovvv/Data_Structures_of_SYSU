@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/vscode_projects/Data_Structures/Stack",
-      "program": "d:/vscode_projects/Data_Structures/Stack/build/Debug/outDebug",
+      "cwd": "d:/vscode_projects/Data_Structures/projects/project3",
+      "program": "d:/vscode_projects/Data_Structures/projects/project3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
