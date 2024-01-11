@@ -27,5 +27,15 @@ void createGraph(GraphList* g){
         }
         tmp->next = e;
      }
+     if(g->adjList[tail].firstedge == nullptr){
+        g->adjList[tail].firstedge = e;
+     }
+     else{
+        EdgeNode* tmp = g->adjList[tail].firstedge;
+        while(tmp->next != nullptr){
+            tmp = tmp->next;
+        }
+        tmp->next = e;
+     }
    }
 }
