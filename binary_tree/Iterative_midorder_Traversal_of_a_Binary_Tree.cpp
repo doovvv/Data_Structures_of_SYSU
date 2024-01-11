@@ -2,8 +2,8 @@
 #include "stack"
 using namespace std;
 //将根节点压栈
-//如果有左节点压栈
-//如果没有，访问根节点，进入右节点
+//访问左节点
+//如果没有，根节点退栈，访问根节点，进入右节点
 void traveral_midorder(TreeNode* root) {
     stack<TreeNode*> ans;
     TreeNode* p = root;
