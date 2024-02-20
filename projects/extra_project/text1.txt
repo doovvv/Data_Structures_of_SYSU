@@ -1,0 +1,49 @@
+ClausAgerskov
+Ubuntu user since 2005-04-09. Linux user since 1998.
+
+Havn't done any Ubuntu contribution yet.
+
+Contact information
+Name: Claus Agerskov
+
+Nationality: Danish (born April 29th, 1970)
+
+Location: Borup, Zealand, Denmark
+
+VoIP: None
+
+Cell: +45 27 59 69 96
+
+Email: ca@chbs.dk
+
+Web site: http://www.claus-agerskov.dk/
+
+GnuPG key: None yet
+
+GnuPG fingerprint: None yet
+
+Free and Open Source Software activities
+Former activities
+Danish translation of OpenOffice.org and Planner.
+
+Active in the Danish Localisation of Free Software
+
+Writing free training materials under the project Frit Kursus for Linux, Apache, PHP and Samba courses.
+
+Initiator and chairman of Commercial Linux Stakeholders in Denmark (KLID) (1999-2001).
+
+Boardmember of Danish Unix User Group (2001-2003).
+
+Boardmember of Skåne Sjælland Linux User Group (1999).
+
+Initiator and head of the Danish OpenOffice.org Team (2001-2002).
+
+Work
+Today I work as a Perl programmer mostly on Debian GNU/Linux systems at DTV.
+
+I also have some extra job as trainer in Free and Open Source Software like Linux, Apache, Samba and PHP through my part time company AgerCon.
+
+Other stuff
+None yet...
+
+CategoryHomepage

@@ -1,0 +1,2291 @@
+
+
+
+
+
+RandomPage/ArizonaTeam/Meetings/December 11, 2016 Meeting - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+December 11, 2016 Meeting
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ ArizonaTeam/Meetings/07December16ArizonaTeam/Meetings/08December21ArizonaTeam/Meetings/09December27ArizonaTeam/Meetings/09December6ArizonaTeam/Meetings/10December 5ArizonaTeam/Meetings/10December12ArizonaTeam/Meetings/10December19ArizonaTeam/Meetings/10December26ArizonaTeam/Meetings/September4,2011ArizonaTeam/Meetings/September5,2011RandomPageRandomTranslationListingOptionSpecificationARM/MeetingAizonaTeam/Meetings/January 02, 2022 MeetingAizonaTeam/Meetings/January 15, 2023 MeetingAizonaTeam/Meetings/January 16, 2022 MeetingArizonaTeam/Meetings/April 01, 2012 MeetingArizonaTeam/Meetings/April 02, 2017 MeetingArizonaTeam/Meetings/April 02, 2023 MeetingArizonaTeam/Meetings/April 03, 2016 MeetingArizonaTeam/Meetings/April 03, 2022 MeetingArizonaTeam/Meetings/April 04, 2021 MeetingArizonaTeam/Meetings/April 05, 2013 MeetingArizonaTeam/Meetings/April 05, 2015 MeetingArizonaTeam/Meetings/April 05, 2020 MeetingArizonaTeam/Meetings/April 06, 2014 MeetingArizonaTeam/Meetings/April 07, 2013 MeetingArizonaTeam/Meetings/April 07, 2019 MeetingArizonaTeam/Meetings/April 08, 2012 MeetingArizonaTeam/Meetings/April 08, 2018 MeetingArizonaTeam/Meetings/April 09, 2017 MeetingArizonaTeam/Meetings/April 10, 2016 MeetingArizonaTeam/Meetings/April 12, 2013 MeetingArizonaTeam/Meetings/April 12, 2015 MeetingArizonaTeam/Meetings/April 13, 2014 MeetingArizonaTeam/Meetings/April 14, 2013 MeetingArizonaTeam/Meetings/April 15, 2012 MeetingArizonaTeam/Meetings/April 15, 2018 MeetingArizonaTeam/Meetings/April 16, 2017 MeetingArizonaTeam/Meetings/April 16, 2023 MeetingArizonaTeam/Meetings/April 17, 2016 MeetingArizonaTeam/Meetings/April 17, 2022 MeetingArizonaTeam/Meetings/April 18, 2021 MeetingArizonaTeam/Meetings/April 19, 2015 MeetingArizonaTeam/Meetings/April 19, 2020 MeetingArizonaTeam/Meetings/April 20, 2014 MeetingArizonaTeam/Meetings/April 21, 2013 MeetingArizonaTeam/Meetings/April 21, 2019 MeetingArizonaTeam/Meetings/April 22, 2012 MeetingArizonaTeam/Meetings/April 22, 2018 MeetingArizonaTeam/Meetings/April 23, 2017 MeetingArizonaTeam/Meetings/April 24, 2016 MeetingArizonaTeam/Meetings/April 26, 2015 MeetingArizonaTeam/Meetings/April 27, 2014 MeetingArizonaTeam/Meetings/April 28, 2013 MeetingArizonaTeam/Meetings/April 29, 2012 MeetingArizonaTeam/Meetings/April 29, 2018 MeetingArizonaTeam/Meetings/April 30, 2017 MeetingArizonaTeam/Meetings/August 01, 2021 MeetingArizonaTeam/Meetings/August 02, 2015 MeetingArizonaTeam/Meetings/August 02, 2020 MeetingArizonaTeam/Meetings/August 03, 2014 MeetingArizonaTeam/Meetings/August 04, 2013 MeetingArizonaTeam/Meetings/August 04, 2019 MeetingArizonaTeam/Meetings/August 05, 2012 MeetingArizonaTeam/Meetings/August 05, 2018 MeetingArizonaTeam/Meetings/August 06, 2017 MeetingArizonaTeam/Meetings/August 06, 2023 MeetingArizonaTeam/Meetings/August 07, 2016 MeetingArizonaTeam/Meetings/August 07, 2022 MeetingArizonaTeam/Meetings/August 09, 2015 MeetingArizonaTeam/Meetings/August 10, 2014 MeetingArizonaTeam/Meetings/August 11, 2013 MeetingArizonaTeam/Meetings/August 12, 2012 MeetingArizonaTeam/Meetings/August 12, 2018 MeetingArizonaTeam/Meetings/August 13, 2017 MeetingArizonaTeam/Meetings/August 14, 2016 MeetingArizonaTeam/Meetings/August 15, 2021 MeetingArizonaTeam/Meetings/August 16, 2015 MeetingArizonaTeam/Meetings/August 16, 2020 MeetingArizonaTeam/Meetings/August 17, 2014 MeetingArizonaTeam/Meetings/August 18, 2013 MeetingArizonaTeam/Meetings/August 18, 2019 MeetingArizonaTeam/Meetings/August 19, 2012 MeetingArizonaTeam/Meetings/August 19, 2018 MeetingArizonaTeam/Meetings/August 20, 2017 MeetingArizonaTeam/Meetings/August 20, 2023 MeetingArizonaTeam/Meetings/August 21, 2016 MeetingArizonaTeam/Meetings/August 21, 2022 MeetingArizonaTeam/Meetings/August 23, 2015 MeetingArizonaTeam/Meetings/August 24, 2014 MeetingArizonaTeam/Meetings/August 25, 2013 MeetingArizonaTeam/Meetings/August 26, 2012 MeetingArizonaTeam/Meetings/August 26, 2018 MeetingArizonaTeam/Meetings/August 27, 2017 MeetingArizonaTeam/Meetings/August 28, 2016 MeetingArizonaTeam/Meetings/August 30, 2015 MeetingArizonaTeam/Meetings/December 01, 2013 MeetingArizonaTeam/Meetings/December 01, 2019 MeetingArizonaTeam/Meetings/December 02, 2012 MeetingArizonaTeam/Meetings/December 02, 2018 MeetingArizonaTeam/Meetings/December 03, 2017 MeetingArizonaTeam/Meetings/December 03, 2023 MeetingArizonaTeam/Meetings/December 04, 2011 MeetingArizonaTeam/Meetings/December 04, 2016 MeetingArizonaTeam/Meetings/December 04, 2022 MeetingArizonaTeam/Meetings/December 05, 2021 MeetingArizonaTeam/Meetings/December 06, 2015 MeetingArizonaTeam/Meetings/December 06, 2020 MeetingArizonaTeam/Meetings/December 07, 2014 MeetingArizonaTeam/Meetings/December 08, 2013 MeetingArizonaTeam/Meetings/December 09, 2012 MeetingArizonaTeam/Meetings/December 09, 2018 MeetingArizonaTeam/Meetings/December 10, 2017 MeetingArizonaTeam/Meetings/December 11, 2011 MeetingArizonaTeam/Meetings/December 11, 2016 MeetingArizonaTeam/Meetings/December 13, 2015 MeetingArizonaTeam/Meetings/December 14, 2014 MeetingArizonaTeam/Meetings/December 15, 2013 MeetingArizonaTeam/Meetings/December 15, 2019 MeetingArizonaTeam/Meetings/December 16, 2012 MeetingArizonaTeam/Meetings/December 16, 2018 MeetingArizonaTeam/Meetings/December 17, 2017 MeetingArizonaTeam/Meetings/December 17, 2023 MeetingArizonaTeam/Meetings/December 18, 2011 MeetingArizonaTeam/Meetings/December 18, 2016 MeetingArizonaTeam/Meetings/December 18, 2022 MeetingArizonaTeam/Meetings/December 19, 2021 MeetingArizonaTeam/Meetings/December 20, 2015 MeetingArizonaTeam/Meetings/December 20, 2020 MeetingArizonaTeam/Meetings/December 21, 2014 MeetingArizonaTeam/Meetings/December 22, 2013 MeetingArizonaTeam/Meetings/December 23, 2018 MeetingArizonaTeam/Meetings/December 25, 2011 MeetingArizonaTeam/Meetings/December 27, 2015 MeetingArizonaTeam/Meetings/December 29, 2013 MeetingArizonaTeam/Meetings/December 30, 2018 MeetingArizonaTeam/Meetings/February 01, 2015 MeetingArizonaTeam/Meetings/February 02, 2012 MeetingArizonaTeam/Meetings/February 02, 2014 MeetingArizonaTeam/Meetings/February 02, 2020 MeetingArizonaTeam/Meetings/February 03, 2012 MeetingArizonaTeam/Meetings/February 03, 2019 MeetingArizonaTeam/Meetings/February 04, 2018 MeetingArizonaTeam/Meetings/February 05, 2017 MeetingArizonaTeam/Meetings/February 05, 2023 MeetingArizonaTeam/Meetings/February 06, 2022 MeetingArizonaTeam/Meetings/February 07, 2016 MeetingArizonaTeam/Meetings/February 07, 2021 MeetingArizonaTeam/Meetings/February 08, 2015 MeetingArizonaTeam/Meetings/February 09, 2012 MeetingArizonaTeam/Meetings/February 09, 2014 MeetingArizonaTeam/Meetings/February 10, 2012 MeetingArizonaTeam/Meetings/February 10, 2019 MeetingArizonaTeam/Meetings/February 11, 2018 MeetingArizonaTeam/Meetings/February 12, 2012 MeetingArizonaTeam/Meetings/February 12, 2017 MeetingArizonaTeam/Meetings/February 14, 2016 MeetingArizonaTeam/Meetings/February 15, 2015 MeetingArizonaTeam/Meetings/February 16, 2012 MeetingArizonaTeam/Meetings/February 16, 2014 MeetingArizonaTeam/Meetings/February 16, 2020 MeetingArizonaTeam/Meetings/February 17, 2012 MeetingArizonaTeam/Meetings/February 17, 2019 MeetingArizonaTeam/Meetings/February 18, 2018 MeetingArizonaTeam/Meetings/February 19, 2012 MeetingArizonaTeam/Meetings/February 19, 2017 MeetingArizonaTeam/Meetings/February 19, 2023 MeetingArizonaTeam/Meetings/February 20, 2022 MeetingArizonaTeam/Meetings/February 21, 2016 MeetingArizonaTeam/Meetings/February 21, 2021 MeetingArizonaTeam/Meetings/February 22, 2015 MeetingArizonaTeam/Meetings/February 23, 2012 MeetingArizonaTeam/Meetings/February 23, 2014 MeetingArizonaTeam/Meetings/February 24, 2012 MeetingArizonaTeam/Meetings/February 24, 2019 MeetingArizonaTeam/Meetings/February 25, 2018 MeetingArizonaTeam/Meetings/February 26, 2012 MeetingArizonaTeam/Meetings/February 26, 2017 MeetingArizonaTeam/Meetings/February 28, 2016 MeetingArizonaTeam/Meetings/February 5, 2012 MeetingArizonaTeam/Meetings/January 01, 2012 MeetingArizonaTeam/Meetings/January 03, 2016 MeetingArizonaTeam/Meetings/January 03, 2021 MeetingArizonaTeam/Meetings/January 04, 2014 MeetingArizonaTeam/Meetings/January 05, 2014 MeetingArizonaTeam/Meetings/January 05, 2020 MeetingArizonaTeam/Meetings/January 06, 2012 MeetingArizonaTeam/Meetings/January 06, 2019 MeetingArizonaTeam/Meetings/January 07, 2018 MeetingArizonaTeam/Meetings/January 08, 2012 MeetingArizonaTeam/Meetings/January 08, 2016 MeetingArizonaTeam/Meetings/January 08, 2017 MeetingArizonaTeam/Meetings/January 10, 2016 MeetingArizonaTeam/Meetings/January 11, 2014 MeetingArizonaTeam/Meetings/January 12, 2014 MeetingArizonaTeam/Meetings/January 13, 2012 MeetingArizonaTeam/Meetings/January 13, 2019 MeetingArizonaTeam/Meetings/January 14, 2018 MeetingArizonaTeam/Meetings/January 15, 2012 MeetingArizonaTeam/Meetings/January 15, 2016 MeetingArizonaTeam/Meetings/January 15, 2017 MeetingArizonaTeam/Meetings/January 17, 2016 MeetingArizonaTeam/Meetings/January 17, 2021 MeetingArizonaTeam/Meetings/January 18, 2014 MeetingArizonaTeam/Meetings/January 19, 2014 MeetingArizonaTeam/Meetings/January 19, 2020 MeetingArizonaTeam/Meetings/January 20, 2012 MeetingArizonaTeam/Meetings/January 20, 2019 MeetingArizonaTeam/Meetings/January 21, 2018 MeetingArizonaTeam/Meetings/January 22, 2012 MeetingArizonaTeam/Meetings/January 22, 2016 MeetingArizonaTeam/Meetings/January 22, 2017 MeetingArizonaTeam/Meetings/January 24, 2016 MeetingArizonaTeam/Meetings/January 25, 2014 MeetingArizonaTeam/Meetings/January 26, 2014 MeetingArizonaTeam/Meetings/January 27, 2012 MeetingArizonaTeam/Meetings/January 27, 2019 MeetingArizonaTeam/Meetings/January 28, 2018 MeetingArizonaTeam/Meetings/January 29, 2012 MeetingArizonaTeam/Meetings/January 29, 2016 MeetingArizonaTeam/Meetings/January 29, 2017 MeetingArizonaTeam/Meetings/January 31, 2016 MeetingArizonaTeam/Meetings/July 01, 2012 MeetingArizonaTeam/Meetings/July 01, 2018 MeetingArizonaTeam/Meetings/July 02, 2017 MeetingArizonaTeam/Meetings/July 02, 2023 MeetingArizonaTeam/Meetings/July 03, 2016 MeetingArizonaTeam/Meetings/July 03, 2022 MeetingArizonaTeam/Meetings/July 04, 2021 MeetingArizonaTeam/Meetings/July 05, 2015 MeetingArizonaTeam/Meetings/July 05, 2020 MeetingArizonaTeam/Meetings/July 06, 2014 MeetingArizonaTeam/Meetings/July 07, 2013 MeetingArizonaTeam/Meetings/July 07, 2019 MeetingArizonaTeam/Meetings/July 08, 2012 MeetingArizonaTeam/Meetings/July 08, 2018 MeetingArizonaTeam/Meetings/July 09, 2017 MeetingArizonaTeam/Meetings/July 10, 2016 MeetingArizonaTeam/Meetings/July 12, 2015 MeetingArizonaTeam/Meetings/July 13, 2014 MeetingArizonaTeam/Meetings/July 14, 2013 MeetingArizonaTeam/Meetings/July 15, 2012 MeetingArizonaTeam/Meetings/July 15, 2018 MeetingArizonaTeam/Meetings/July 16, 2017 MeetingArizonaTeam/Meetings/July 16, 2023 MeetingArizonaTeam/Meetings/July 17, 2016 MeetingArizonaTeam/Meetings/July 17, 2022 MeetingArizonaTeam/Meetings/July 18, 2021 MeetingArizonaTeam/Meetings/July 19, 2015 MeetingArizonaTeam/Meetings/July 19, 2020 MeetingArizonaTeam/Meetings/July 20, 2014 MeetingArizonaTeam/Meetings/July 21, 2013 MeetingArizonaTeam/Meetings/July 21, 2019 MeetingArizonaTeam/Meetings/July 22, 2012 MeetingArizonaTeam/Meetings/July 22, 2018 MeetingArizonaTeam/Meetings/July 23, 2017 MeetingArizonaTeam/Meetings/July 24, 2016 MeetingArizonaTeam/Meetings/July 26, 2015 MeetingArizonaTeam/Meetings/July 27, 2014 MeetingArizonaTeam/Meetings/July 28, 2013 MeetingArizonaTeam/Meetings/July 29, 2012 MeetingArizonaTeam/Meetings/July 29, 2018 MeetingArizonaTeam/Meetings/July 30, 2017 MeetingArizonaTeam/Meetings/July 31, 2016 MeetingArizonaTeam/Meetings/June 02, 2013 MeetingArizonaTeam/Meetings/June 02, 2019 MeetingArizonaTeam/Meetings/June 03, 2012 MeetingArizonaTeam/Meetings/June 03, 2018 MeetingArizonaTeam/Meetings/June 04, 2017 MeetingArizonaTeam/Meetings/June 04, 2023 MeetingArizonaTeam/Meetings/June 05, 2016 MeetingArizonaTeam/Meetings/June 05, 2022 MeetingArizonaTeam/Meetings/June 06, 2021 MeetingArizonaTeam/Meetings/June 07, 2015 MeetingArizonaTeam/Meetings/June 07, 2020 MeetingArizonaTeam/Meetings/June 09, 2013 MeetingArizonaTeam/Meetings/June 1, 2014 MeetingArizonaTeam/Meetings/June 10, 2012 MeetingArizonaTeam/Meetings/June 10, 2018 MeetingArizonaTeam/Meetings/June 11, 2017 MeetingArizonaTeam/Meetings/June 12, 2016 MeetingArizonaTeam/Meetings/June 14, 2015 MeetingArizonaTeam/Meetings/June 15, 2014 MeetingArizonaTeam/Meetings/June 16, 2013 MeetingArizonaTeam/Meetings/June 16, 2019 MeetingArizonaTeam/Meetings/June 17, 2012 MeetingArizonaTeam/Meetings/June 17, 2018 MeetingArizonaTeam/Meetings/June 18, 2017 MeetingArizonaTeam/Meetings/June 18, 2023 MeetingArizonaTeam/Meetings/June 19, 2016 MeetingArizonaTeam/Meetings/June 19, 2022 MeetingArizonaTeam/Meetings/June 20, 2021 MeetingArizonaTeam/Meetings/June 21, 2015 MeetingArizonaTeam/Meetings/June 21, 2020 MeetingArizonaTeam/Meetings/June 22, 2014 MeetingArizonaTeam/Meetings/June 23, 2013 MeetingArizonaTeam/Meetings/June 24, 2012 MeetingArizonaTeam/Meetings/June 24, 2018 MeetingArizonaTeam/Meetings/June 25, 2017 MeetingArizonaTeam/Meetings/June 26, 2016 MeetingArizonaTeam/Meetings/June 28, 2015 MeetingArizonaTeam/Meetings/June 29, 2014 MeetingArizonaTeam/Meetings/June 30, 2013 MeetingArizonaTeam/Meetings/June 8, 2014 MeetingArizonaTeam/Meetings/March 01, 2015 MeetingArizonaTeam/Meetings/March 01, 2020 MeetingArizonaTeam/Meetings/March 02, 2014 MeetingArizonaTeam/Meetings/March 03, 2013 MeetingArizonaTeam/Meetings/March 03, 2019 MeetingArizonaTeam/Meetings/March 04, 2018 MeetingArizonaTeam/Meetings/March 05, 2017 MeetingArizonaTeam/Meetings/March 05, 2023 MeetingArizonaTeam/Meetings/March 06, 2015 MeetingArizonaTeam/Meetings/March 06, 2016 MeetingArizonaTeam/Meetings/March 06, 2022 MeetingArizonaTeam/Meetings/March 07, 2021 MeetingArizonaTeam/Meetings/March 08, 2015 MeetingArizonaTeam/Meetings/March 09, 2014 MeetingArizonaTeam/Meetings/March 10, 2013 MeetingArizonaTeam/Meetings/March 11, 2012 MeetingArizonaTeam/Meetings/March 11, 2018 MeetingArizonaTeam/Meetings/March 12, 2017 MeetingArizonaTeam/Meetings/March 13, 2015 MeetingArizonaTeam/Meetings/March 15, 2015 MeetingArizonaTeam/Meetings/March 15, 2020 MeetingArizonaTeam/Meetings/March 16, 2014 MeetingArizonaTeam/Meetings/March 17, 2013 MeetingArizonaTeam/Meetings/March 17, 2019 MeetingArizonaTeam/Meetings/March 18, 2012 MeetingArizonaTeam/Meetings/March 18, 2018 MeetingArizonaTeam/Meetings/March 19, 2017 MeetingArizonaTeam/Meetings/March 19, 2023 MeetingArizonaTeam/Meetings/March 20, 2015 MeetingArizonaTeam/Meetings/March 20, 2022 MeetingArizonaTeam/Meetings/March 21, 2021 MeetingArizonaTeam/Meetings/March 22, 2015 MeetingArizonaTeam/Meetings/March 23, 2014 MeetingArizonaTeam/Meetings/March 24, 2013 MeetingArizonaTeam/Meetings/March 25, 2012 MeetingArizonaTeam/Meetings/March 25, 2018 MeetingArizonaTeam/Meetings/March 26, 2017 MeetingArizonaTeam/Meetings/March 27, 2015 MeetingArizonaTeam/Meetings/March 29, 2015 MeetingArizonaTeam/Meetings/March 30, 2014 MeetingArizonaTeam/Meetings/March 31, 2013 MeetingArizonaTeam/Meetings/March 4, 2012 MeetingArizonaTeam/Meetings/May 01, 2016 MeetingArizonaTeam/Meetings/May 01, 2022 MeetingArizonaTeam/Meetings/May 02, 2021 MeetingArizonaTeam/Meetings/May 03, 2015 MeetingArizonaTeam/Meetings/May 03, 2020 MeetingArizonaTeam/Meetings/May 04, 2014 MeetingArizonaTeam/Meetings/May 05, 2013 MeetingArizonaTeam/Meetings/May 05, 2019 MeetingArizonaTeam/Meetings/May 06, 2012 MeetingArizonaTeam/Meetings/May 06, 2018 MeetingArizonaTeam/Meetings/May 07, 2017 MeetingArizonaTeam/Meetings/May 07, 2023 MeetingArizonaTeam/Meetings/May 08, 2016 MeetingArizonaTeam/Meetings/May 10, 2015 MeetingArizonaTeam/Meetings/May 11, 2014 MeetingArizonaTeam/Meetings/May 12, 2013 MeetingArizonaTeam/Meetings/May 13, 2012 MeetingArizonaTeam/Meetings/May 14, 2017 MeetingArizonaTeam/Meetings/May 15, 2016 MeetingArizonaTeam/Meetings/May 15, 2022 MeetingArizonaTeam/Meetings/May 16, 2021 MeetingArizonaTeam/Meetings/May 17, 2015 MeetingArizonaTeam/Meetings/May 17, 2020 MeetingArizonaTeam/Meetings/May 18, 2014 MeetingArizonaTeam/Meetings/May 19, 2013 MeetingArizonaTeam/Meetings/May 19, 2019 MeetingArizonaTeam/Meetings/May 20, 2012 MeetingArizonaTeam/Meetings/May 20, 2018 MeetingArizonaTeam/Meetings/May 21, 2017 MeetingArizonaTeam/Meetings/May 21, 2023 MeetingArizonaTeam/Meetings/May 22, 2016 MeetingArizonaTeam/Meetings/May 24, 2015 MeetingArizonaTeam/Meetings/May 25, 2014 MeetingArizonaTeam/Meetings/May 26, 2013 MeetingArizonaTeam/Meetings/May 27, 2012 MeetingArizonaTeam/Meetings/May 28, 2017 MeetingArizonaTeam/Meetings/May 29, 2016 MeetingArizonaTeam/Meetings/May 31, 2015 MeetingArizonaTeam/Meetings/November 01, 2015 MeetingArizonaTeam/Meetings/November 01, 2020 MeetingArizonaTeam/Meetings/November 02, 2014 MeetingArizonaTeam/Meetings/November 03, 2013 MeetingArizonaTeam/Meetings/November 03, 2019 MeetingArizonaTeam/Meetings/November 04, 2012 MeetingArizonaTeam/Meetings/November 04, 2018 MeetingArizonaTeam/Meetings/November 05, 2017 MeetingArizonaTeam/Meetings/November 05, 2023 MeetingArizonaTeam/Meetings/November 06, 2011 MeetingArizonaTeam/Meetings/November 06, 2016 MeetingArizonaTeam/Meetings/November 06, 2022 MeetingArizonaTeam/Meetings/November 07, 2021 MeetingArizonaTeam/Meetings/November 08, 2015 MeetingArizonaTeam/Meetings/November 09, 2014 MeetingArizonaTeam/Meetings/November 10, 2013 MeetingArizonaTeam/Meetings/November 11, 2012 MeetingArizonaTeam/Meetings/November 12, 2017 MeetingArizonaTeam/Meetings/November 13, 2011 MeetingArizonaTeam/Meetings/November 13, 2016 MeetingArizonaTeam/Meetings/November 15, 2015 MeetingArizonaTeam/Meetings/November 15, 2020 MeetingArizonaTeam/Meetings/November 16, 2014 MeetingArizonaTeam/Meetings/November 17, 2013 MeetingArizonaTeam/Meetings/November 17, 2019 MeetingArizonaTeam/Meetings/November 18, 2012 MeetingArizonaTeam/Meetings/November 18, 2018 MeetingArizonaTeam/Meetings/November 19, 2017 MeetingArizonaTeam/Meetings/November 19, 2023 MeetingArizonaTeam/Meetings/November 20, 2011 MeetingArizonaTeam/Meetings/November 20, 2016 MeetingArizonaTeam/Meetings/November 20, 2022 MeetingArizonaTeam/Meetings/November 21, 2021 MeetingArizonaTeam/Meetings/November 22, 2015 MeetingArizonaTeam/Meetings/November 23, 2014 MeetingArizonaTeam/Meetings/November 24, 2013 MeetingArizonaTeam/Meetings/November 25, 2018 MeetingArizonaTeam/Meetings/November 26, 2017 MeetingArizonaTeam/Meetings/November 27, 2011 MeetingArizonaTeam/Meetings/November 27, 2016 MeetingArizonaTeam/Meetings/November 29, 2015 MeetingArizonaTeam/Meetings/October 01, 2017 MeetingArizonaTeam/Meetings/October 01, 2023 MeetingArizonaTeam/Meetings/October 02, 2011 MeetingArizonaTeam/Meetings/October 02, 2016 MeetingArizonaTeam/Meetings/October 02, 2022 MeetingArizonaTeam/Meetings/October 03, 2021 MeetingArizonaTeam/Meetings/October 04, 2015 MeetingArizonaTeam/Meetings/October 04, 2020 MeetingArizonaTeam/Meetings/October 05, 2014 MeetingArizonaTeam/Meetings/October 06, 2013 MeetingArizonaTeam/Meetings/October 06, 2019 MeetingArizonaTeam/Meetings/October 07, 2012 MeetingArizonaTeam/Meetings/October 07, 2018 MeetingArizonaTeam/Meetings/October 08, 2017 MeetingArizonaTeam/Meetings/October 09, 2011 MeetingArizonaTeam/Meetings/October 09, 2016 MeetingArizonaTeam/Meetings/October 11, 2015 MeetingArizonaTeam/Meetings/October 12, 2014 MeetingArizonaTeam/Meetings/October 14, 2012 MeetingArizonaTeam/Meetings/October 14, 2018 MeetingArizonaTeam/Meetings/October 15, 2017 MeetingArizonaTeam/Meetings/October 15, 2023 MeetingArizonaTeam/Meetings/October 16, 2011 MeetingArizonaTeam/Meetings/October 16, 2016 MeetingArizonaTeam/Meetings/October 16, 2022 MeetingArizonaTeam/Meetings/October 17, 2021 MeetingArizonaTeam/Meetings/October 18, 2015 MeetingArizonaTeam/Meetings/October 18, 2020 MeetingArizonaTeam/Meetings/October 19, 2014 MeetingArizonaTeam/Meetings/October 20, 2013 MeetingArizonaTeam/Meetings/October 20, 2019 MeetingArizonaTeam/Meetings/October 21, 2012 MeetingArizonaTeam/Meetings/October 21, 2018 MeetingArizonaTeam/Meetings/October 22, 2017 MeetingArizonaTeam/Meetings/October 23, 2011 MeetingArizonaTeam/Meetings/October 23, 2016 MeetingArizonaTeam/Meetings/October 25, 2015 MeetingArizonaTeam/Meetings/October 26, 2014 MeetingArizonaTeam/Meetings/October 27, 2013 MeetingArizonaTeam/Meetings/October 28, 2012 MeetingArizonaTeam/Meetings/October 28, 2018 MeetingArizonaTeam/Meetings/October 29, 2017 MeetingArizonaTeam/Meetings/October 30, 2011 MeetingArizonaTeam/Meetings/October 30, 2016 MeetingArizonaTeam/Meetings/September 01, 2019 MeetingArizonaTeam/Meetings/September 03, 2017 MeetingArizonaTeam/Meetings/September 03, 2023 MeetingArizonaTeam/Meetings/September 04, 2016 MeetingArizonaTeam/Meetings/September 04, 2022 MeetingArizonaTeam/Meetings/September 05, 2021 MeetingArizonaTeam/Meetings/September 06, 2015 MeetingArizonaTeam/Meetings/September 06, 2020 MeetingArizonaTeam/Meetings/September 07, 2014 MeetingArizonaTeam/Meetings/September 08, 2013 MeetingArizonaTeam/Meetings/September 09, 2012 MeetingArizonaTeam/Meetings/September 09, 2018 MeetingArizonaTeam/Meetings/September 10, 2017 MeetingArizonaTeam/Meetings/September 11, 2011 MeetingArizonaTeam/Meetings/September 11, 2016 MeetingArizonaTeam/Meetings/September 13, 2015 MeetingArizonaTeam/Meetings/September 14, 2014 MeetingArizonaTeam/Meetings/September 15, 2013 MeetingArizonaTeam/Meetings/September 15, 2019 MeetingArizonaTeam/Meetings/September 16, 2012 MeetingArizonaTeam/Meetings/September 16, 2018 MeetingArizonaTeam/Meetings/September 17, 2017 MeetingArizonaTeam/Meetings/September 17, 2023 MeetingArizonaTeam/Meetings/September 18, 2011 MeetingArizonaTeam/Meetings/September 18, 2016 MeetingArizonaTeam/Meetings/September 18, 2022 MeetingArizonaTeam/Meetings/September 18,2011 MeetingArizonaTeam/Meetings/September 19, 2021 MeetingArizonaTeam/Meetings/September 20, 2015 MeetingArizonaTeam/Meetings/September 20, 2020 MeetingArizonaTeam/Meetings/September 21, 2014 MeetingArizonaTeam/Meetings/September 22, 2013 MeetingArizonaTeam/Meetings/September 23, 2012 MeetingArizonaTeam/Meetings/September 23, 2018 MeetingArizonaTeam/Meetings/September 24, 2017 MeetingArizonaTeam/Meetings/September 25, 2011 MeetingArizonaTeam/Meetings/September 25, 2016 MeetingArizonaTeam/Meetings/September 25,2011 MeetingArizonaTeam/Meetings/September 27, 2015 MeetingArizonaTeam/Meetings/September 28, 2014 MeetingArizonaTeam/Meetings/September 29, 2013 MeetingArizonaTeam/Meetings/September 30, 2012 MeetingArizonaTeam/Meetings/September 30, 2018 MeetingAustralianTeam/Archives/MeetingAustriaTeam/Meetings/NextMeetingBeginnersTeam/FocusGroups/Development/MeetingBelgianTeam/LocalizedCD/IsoMeetingBelgianTeam/VLOD_2007/PreparationMeetingBuildingCommunity/SampleTeam/MeetingCameroonianTeam/NextMeetingChicagoTeam/NextMeetingCzechLocoTeam/MeetingDCT/MeetingDerivativeTeam/MeetingDesktopExperienceTeam/FDoStatusNotifierMeetingDesktopTeam/DevelopmentMeetingDesktopTeam/MeetingDocumentationTeam/MeetingEcuadorTeam/MeetingEgyptTeam/ApprovalApplication2012/MeetingGaspa2/UbuntuItMeetingJavaTeam/MeetingKDECanonicalMeetingKernel/Handbook/ReleaseManagement/ReleaseMeetingKernelTeam/RunningTheIRCMeetingKubuntu/MumbleMeetingLaunchpadUserMeetingLoCoTeamMeetingMOTU/Council/MeetingMOTU/Headers/NextMCMeetingMOTU/Headers/NextMOTUMeetingMOTU/Mentoring/Reception/MeetingMobileAndEmbedded/MeetingMobileAndEmbedded/UsbClientMeetingMobileTeam/Mobile/MeetingNGO/MeetingNGO/NextMeetingNewJerseyTeam/Meetings/FebruaryMeetingNorthCarolinaTeam/Events/DecemberLugMeetingNorthCarolinaTeam/MeetingOklahomaTeam/MeetingPNWTeam/projects/GSLUGMeetingPowerUsers/MeetingQATeam/LaunchpadBugsUbuntuQAMeetingReleaseTeam/MeetingScreencastTeam/MeetingScribesTeam/SubmitMeetingSecurityTeam/MeetingServerTeam/MeetingServerTeam/OpenStackCharmsMeetingSugar/MeetingSupportTeam/MeetingTennesseeTeam/MeetingThaiTeam/Gallery/UbuntuTeamMeetingTimeVault/MeetingNotes/20070714MeetingTraining/MeetingUKTeam/LastMeetingUKTeam/MeetingNotes/20061025MeetingUKTeam/MeetingNotes/20061113MeetingUKTeam/MeetingNotes/20061127MeetingUKTeam/MeetingNotes/20061219MeetingUKTeam/MeetingNotes/20070110MeetingUKTeam/MeetingNotes/20070131MeetingUKTeam/MeetingNotes/20070221MeetingUKTeam/MeetingNotes/20070320MeetingUKTeam/MeetingNotes/20070401MeetingUKTeam/MeetingNotes/20070603MeetingUKTeam/MeetingNotes/20070707MeetingUKTeam/MeetingNotes/20070812MeetingUKTeam/MeetingNotes/20070916MeetingUKTeam/MeetingNotes/20071013MeetingUKTeam/MeetingNotes/20071118MeetingUKTeam/MeetingNotes/20080326MeetingUKTeam/MeetingNotes/20080813MeetingUKTeam/MeetingNotes/20090104MeetingUKTeam/MeetingNotes/20090111MeetingUKTeam/MeetingNotes/20090118MeetingUKTeam/NextMeetingUbuconAsia/2021/MeetingMinutes/2021-07-24-ContentTeamMeetingUbuconAsia/2021/MeetingMinutes/FirstMeetingUbuntu Kylin/MeetingUbuntuBackportsMeetingUbuntuCloudMeetingUbuntuDeveloperSummitParis/EdubuntuCommunityMeetingUbuntuForAll/MeetingUbuntuPentest/PendingForNextMeetingUbuntuTV/MeetingUbuntuTour/LastMeetingUnity/WeeklyMeetingVenezuelaTeam/FaceMeetingVenezuelaTeam/MeetingWebsite/NewBrandLaunchMeetingbelkinsa/sandbox/Leadership/RunningAMeetinghttps:/wiki.ubuntu.com/belkinsa/sandbox/Leadership/RunningAMeetingsandbox/SII_Meeting 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/BeginnersTeam/Meetings/20070614 - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+20070614
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ BeginnersTeam/Meetings/20070405BeginnersTeam/Meetings/20070412BeginnersTeam/Meetings/20070419BeginnersTeam/Meetings/20070610BeginnersTeam/Meetings/20070614BeginnersTeam/Meetings/20070623BeginnersTeam/Meetings/20090616BeginnersTeam/Meetings/20090714BeginnersTeam/Meetings/20100914BeginnersTeam/Meetings/20110621RandomPageRandomTranslationListingOptionSpecification 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/CameroonianTeam/Howto/InternetWithCamtelCDMA - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+InternetWithCamtelCDMA
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ CameroonianTeam/Events/FeteInternetCameroonCameroonianTeam/Howto/GetCDCameroonianTeam/Howto/InternetWithCamtelCameroonianTeam/Howto/InternetWithCamtel/frCameroonianTeam/Howto/InternetWithCamtelCDMACameroonianTeam/Howto/InternetWithMTNCameroonianTeam/Howto/InternetWithOrangeCameroonianTeam/Howto/InternetWithOrange/frCameroonianTeam/Howto/InternetWithRingoCameroonianTeam/Projects/InternetLinkRandomPageRandomTranslationListingOptionSpecification 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/CatalanTeam/JauntyJackalope/Taller. Com obtenir claus WEP - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+Taller. Com obtenir claus WEP
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ CatalanTeam/JauntyJackalope/GTActivitatsCatalanTeam/JauntyJackalope/GTMatxaquesCatalanTeam/JauntyJackalope/InstallPartyCopernicCatalanTeam/JauntyJackalope/Taller de GimpCatalanTeam/JauntyJackalope/Taller. Eines de seguretatCatalanTeam/JauntyJackalope/Taller. Els paquets de programariCatalanTeam/JauntyJackalope/Taller. Gesti de cpies de seguretatCatalanTeam/JauntyJackalope/Taller. Gesti documentalCatalanTeam/JauntyJackalope/TemesPendentsCatalanTeam/JauntyJackalope/XerradaOSMRandomPageRandomTranslationListingOptionSpecificationCatalanTeam/JauntyJackalope/Taller. Com obtenir claus WEP 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/Debian/Usertagging - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+Usertagging
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ RandomPageRandomTranslationListingOptionSpecificationBugs/Debian/UsertaggingDebian/Usertagging 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/Jyrki_Pulliainen - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+Jyrki_Pulliainen
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ RandomPageRandomTranslationListingOptionSpecificationJyrki_Pulliainen 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/KubuntuDialupSupport - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+KubuntuDialupSupport
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ RandomPageRandomTranslationListingOptionSpecificationARM/DeviceSupportAccessibility/Specs/BrailleSupportAccomplishments/GetInvolved/SupportAddingJavaSupportAptSftpSupportBeginnersTeam/FocusGroups/SupportBetterBluetoothSupportBetterDesktopCDLanguageSupportBluetoothMouseSupportBluetoothNetworkingSupportCanadianTeam/Vancouver/GetSupportCanonicalApplicationSupportCommunityReview/Sep2010/SupportCore_2_Duo_SupportCypriotTeam/SupportDMTFSupportDesktopTeam/Specs/IRRemoteControlSupportDesktopTeam/Specs/JockeyPrinterDriverSupportDeveloperOffering/RuntimeSupportDialUpSupportDmraidSupportEdubuntuSchoolSupportEgyptTeam/KnowledgeBase/SupportEgyptTeam/SupportEncryptedSwapWithHibernationSupportEndorphin_Power_Company_Ubuntu_Install_and_SupportErrorTracker/BreakpadApplicationSupportFoundationsTeam/BtrfsSupportFoundationsTeam/Specs/LucidLocalRepoSupportFoundationsTeam/Specs/MaverickBtrFsSupportFoundationsTeam/Specs/MaverickUefiSupportGainIndustrySupportGetRidOfPythonCentralAndSupportHardwareSupportHelpOnConfiguration/EmailSupportIRC/ChannelList/SupportIntelMacSupportIrishTeam/SysAdminSupportIsdnHowto/HardwareSupportJ2EESupportKenyanTeam/SupportKernel/FAQ/DebuggingMainlineBuildsSupportKernel/SupportKernelTeam/Specs/KernelMaverickTracingSupportKubuntu/GettingInvolved/SupportKubuntu/SupportKubuntuDialupSupportLDMLoadbalancingSupportLXDE-lubuntu/Developers/TranslationsSupportLXDE-lubuntu/DocumentationHelp/LanguageSupportLanguagePackVsSupportLearning/UbuntuDesktop/GettingSupportLocalSupportLowEndSystemSupportLucidLynx/MultiTouchSupportMainInclusionReportBluezPcmciaSupportMainInclusionReportPythonSupportMaltaTeam/SupportMediaCenter/CodecSupportMediaCenter/RemoteSupportMobileAndEmbedded/CodecSupportMobileAndEmbedded/HardySecuritySupportMozillaTeam/LaunchpadTranslationSupportMultitouch/HardwareSupportMultitouch/TouchpadSupportMythTVTeam/MythTVHardwareSupportOfficialSoftSynthSupportOhioTeam/Deprecated/NewUser/OtherSupportOneToOneLiveSupportOpenAFSSupportOverlayArchiveSupportPNWTeam-UserSupportPNWTeam/projects/UserSupportRecommendsSupportRemoteAccessAndSupportRomanYepishev/UbuntuOne/ProxySupportRosettaFirefoxSupportSpecRemoteConsoleSupportSpecs/ArmDeviceTreeSupportSpecs/M/ARMTrustedComputingSupportSpecs/MobileHardwareSupportStandardisedHardwareSupportSwedishTeam/SupportThinClientAudioSupportTilixPaidSupportTouch/Emulator/SupportUKTeam/IdeasPool/UkSupportUKTeam/SupportUbuntuCommercialSupportUbuntuDebdeltaSupportUbuntuDownUnder/BOFs/BluetoothSupportUbuntuDownUnder/BOFs/DialUpSupportUbuntuDownUnder/BOFs/KubuntuIpodSupportUbuntuDownUnder/BOFs/LaptopHardwareSupportUbuntuDownUnder/BOFs/PDASupportUbuntuDownUnder/BOFs/SupportUbuntuGNOME/ContactUs/SupportUbuntuLiveChatSupportXineramaSupportZhengpengHou/NuxIMSupportblueprint/GridCentricSupportiTPMSupportppc64el/MultipathSupport 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/LXDE-lubuntu/SubTeams/DocumentationSubTeam - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+DocumentationSubTeam
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ Edubuntu/WikiSite/DocumentationKubuntu/SystemDocumentationLXDE-lubuntu/DocumentationHelpLXDE-lubuntu/DocumentationHelp/LXTerminalLXDE-lubuntu/DocumentationTeam/ManualLXDE-lubuntu/DocumentationTeam/TODOLXDE-lubuntu/SubTeams/ArtworkSubTeam/DocumentationLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateRomanYepishev/UbuntuOne/DocumentationRandomPageRandomTranslationListingOptionSpecification64BitTeamARMTeamAccessibility/TeamAccessibilityTeamAfghanistanTeamAlabamaTeamAlabamaTeam/BlogTeamAlabamaTeam/WikiTeamAlaskaTeamAlexMuntada/CatalanTeamAlgerianTeamAmarilloTeamAndhraPradeshTeamApOgEE/MalaysianTeamApprovalPageForDCTeamArabicTeamArabicTranslationTeamArgentinaTeamArgentinianTeamArizonaTeamArtTeamArtwork/Incoming/Intrepid/Intrepid_Ibex_Font_-_Art_TeamArtwork/Incoming/Intrepid/Intrepid_Ibex_Gtk/Metacity_-_Art_TeamArtwork/Incoming/Intrepid/Intrepid_Ibex_Icons_-_Art_TeamArtwork/Incoming/Intrepid/Ubuntu_8.10_Theme_-_Art_TeamArtworkTeamAsturianTeamAustinTeamAustralianTeamAustralianTranslationTeamAustriaTeamAzerbaijanTeamBahamasTeamBahrainTeamBangaloreTeamBangladeshiTeamBeginnersTeamBelarusTeamBelarusianTeamBelgianTeamBelgianTeam/Responsibility/EventsTeamBelgianTeam/Responsibility/FacebookTeamBelizeanTeamBeninTeamBolivianTeamBosniaHerzegovinaTeamBosnianTeamBosnianTuzlaTeamBrazilianTeamBruneiTeamBugSquad/AdoptionTeamBuildingCommunity/SampleTeamBulgarianTeamBurkinaFasoTeamCaliforniaTeamCaliforniaTeam/WebsiteTeamCambodiaTeamCameroonianTeamCanadianTeamCatalanTeamCatalanTeam/IRC/Logs/20070201-CatalanTeamCatalanTeam/IRC/Logs/20070301-CatalanTeamCatalanTeam/IRC/Logs/20070318-CatalanTeamCatalanTeam/IRC/Logs/20070401-CatalanTeamCatalanTeam/IRC/Logs/20070415-CatalanTeamCatalanTeam/IRC/Logs/20070422-CatalanTeamCatalanTeam/IRC/Logs/20070429-CatalanTeamCatalanTeam/IRC/Logs/20070506-CatalanTeamCatalanTeam/IRC/Logs/20070513-CatalanTeamCatalanTeam/IRC/Logs/20070527-CatalanTeamCatalanTeam/IRC/Logs/20070603-CatalanTeamCatalanTeam/IRC/Logs/20070610-CatalanTeamCatalanTeam/IRC/Logs/20070617-CatalanTeamCatalanTeam/IRC/Logs/20070624-CatalanTeamCatalanTeam/IRC/Logs/20070708-CatalanTeamCatalanTeam/IRC/Logs/20070716-CatalanTeamCatalanTeam/IRC/Logs/20070901-CatalanTeamCatalanTeam/IRC/Logs/20070909-CatalanTeamCatalanTeam/IRC/Logs/20070916-CatalanTeamCatalanTeam/IRC/Logs/20071001-CatalanTeamCatalanTeam/IRC/Logs/20071016-CatalanTeamCatalanTeam/IRC/Logs/20071101-CatalanTeamCatalanTeam/IRC/Logs/20071116-CatalanTeamCatalanTeam/IRC/Logs/20071201-CatalanTeamCatalanTeam/IRC/Logs/20080101-CatalanTeamCatalanTeam/IRC/Logs/20080116-CatalanTeamCatalanTeam/IRC/Logs/20080201-CatalanTeamCatalanTeam/IRC/Logs/20080216-CatalanTeamCatalanTeam/IRC/Logs/20080301-CatalanTeamCatalanTeam/IRC/Logs/20080316-CatalanTeamCatalanTeam/IRC/Logs/20080401-CatalanTeamCatalanTeam/IRC/Logs/20080416-CatalanTeamCatalanTeam/IRC/Logs/20080501-CatalanTeamCatalanTeam/IRC/Logs/20080516-CatalanTeamCatalanTeam/IRC/Logs/20080616-CatalanTeamCatalanTeam/IRC/Logs/20080701-CatalanTeamCatalanTeam/IRC/Logs/20080716-CatalanTeamCatalanTeam/IRC/Logs/20080901-CatalanTeamCatalanTeam/IRC/Logs/20081001-CatalanTeamCatalanTeam/IRC/Logs/20081016-CatalanTeamCatalanTeam/IRC/Logs/20081201-CatalanTeamCatalanTeam/IRC/Logs/20081216-CatalanTeamCatalanTeam/IRC/Logs/20090116-CatalanTeamCatalanTeam/IRC/Logs/20090201-CatalanTeamCatalanTeam/IRC/Logs/20090216-CatalanTeamCatalanTeam/IRC/Logs/20090301-CatalanTeamCatalanTeam/IRC/Logs/20090316-CatalanTeamCatalanTeam/IRC/Logs/20090401-CatalanTeamCatalanTeam/IRC/Logs/20090416-CatalanTeamCatalanTeam/IRC/Logs/20090516-CatalanTeamCatalanTeam/IRC/Logs/20090601-CatalanTeamCatalanTeam/IRC/Logs/20090616-CatalanTeamCatalanTeam/IRC/Logs/20090716-CatalanTeamCatalanTeam/IRC/Logs/20090901-CatalanTeamCatalanTeam/IRC/Logs/20090916-CatalanTeamCatalanTeam/IRC/Logs/20091001-CatalanTeamCatalanTeam/IRC/Logs/20091016-CatalanTeamCatalanTeam/IRC/Logs/20091101-CatalanTeamCatalanTeam/IRC/Logs/20091116-CatalanTeamCatalanTeam/IRC/Logs/20091201-CatalanTeamCatalanTeam/IRC/Logs/20091216-CatalanTeamCatalanTeam/IRC/Logs/20100116-CatalanTeamCatalanTeam/IRC/Logs/20100201-CatalanTeamCatalanTeam/IRC/Logs/20100216-CatalanTeamCatalanTeam/IRC/Logs/20100301-CatalanTeamCatalanTeam/MotoTeamCategoryAlgerianTeamCategoryArizonaTeamCategoryBeginnersTeamCategoryBelgianTeamCategoryChileanTeamCategoryColombianTeamCategoryDerivativeTeamCategoryDesktopTeamCategoryEgyptLoCoTeamCategoryEsperantoTeamCategoryGeorgiaUSTeamCategoryIsraeliTeamCategoryJavaTeamCategoryMalaysianTeamCategoryMissouriTeamCategoryMozillaTeamCategoryMultiseatTeamCategoryNewHampshireTeamCategoryNewYorkTeamCategoryNorthCarolinaTeamCategoryPolishTeamCategoryRTLTeamCategoryRtTeamCategorySabilyTeamCategoryScribesTeamCategoryServerTeamCategorySouthCarolinaTeamCategoryTeamCategoryTunisianTeamCategoryUETeamCategoryUKTeamCategoryUnansweredPostsTeamCategoryWelshTeamCellPhoneTeamCenTexTeamChicagoTeamChileTeamChileanTeamChinaTeamChineseTeamColombiaTeamColombianTeamColoradoTeamColumbusTeamCommunityTeamCompizTeamConnecticutTeamCostaRicaTeamCostaRicanTeamCubaTeamCypriotTeamCyprusTeamCzechLocoTeamCzechTeamDCTeamDallasTeamDanishTeamDc1394PackageMaintenersTeamDebian/PythonModulesTeamDelawareTeamDelhiTeamDerivativeTeamDesktopExperienceTeamDesktopTeamDesktopTeam/Specs/ArtTeamDetroitTeamDeveloperAdvisoryTeamDistrictOfColumbiaTeamDocumentationTeamDocumentationTeam/WikiTeamDohaTeamDutchTeamEastCoastTeamEasternUnitedStatesTeamEcuadorTeamEcuadorTeam/newdesignEcuadorTeamEdmondTeamEdubuntuItalianTeamEgyptTeamEl-JazairTeamElSalvadorTeamEmbeddedTeamEmiratesTeamEsperantoTeamEstonianTeamEthiopianTeamFinnishTeamFloridaTeamFloridaTeam/FGCFTeamFloridaTeam/MeetTeamFocusFollowsMouseTeamForum/Spec/TestimonialTeamFoundationsTeamFranceTeamFreestateTeamFrenchTeamFriulianTeamGalicianTeamGamesTeamGamingTeamGeorgiaUSTeamGeorgianTeamGermanTeamGhanaianTeamGreekTeamGuatemalanTeamGujaratTeamHaitianCreoleTeamHaitianTeamHardwareEnablementTeamHawaiiTeamHelpTeamHondurasTeamHongKongTeamHoustonTeamHungarianTeamIRC/ChannelList/TeamIRC/IrcTeamIcelandicTeamIdahoTeamIllinoisTeamIndiaTeamIndianLaunchpadTeamIndianTeamIndianUbuntuTeamIndianaTeamIndonesianTeamIndubuntuTeamInstallerTeamIowaTeamIranianTeamIrcTeamIrishTeamIsraeliTeamIsraeliTeam/Hebrew/IRCTeamItalianTeamJapaneseTeamJavaTeamJordanMantha/LaunchpadLiaisonTeamJordanTeamKCTeamKETeamKansasTeamKashubianTeamKentuckyTeamKenyanTeamKeralaTeamKernel/FAQ/GeneralFindingTeamKernel/RoleOfTheTeamKernelTeamKoreanTeamKosovoTeamKubuntuGermanTeamKubuntuNicaraguanTeamKubuntuSupportTeamKurdishTeamLXDE-lubuntu/CommunicationsTeamLXDE-lubuntu/DocumentationTeamLXDE-lubuntu/IRC_OPsTeamLXDE-lubuntu/SubTeams/ArtworkSubTeamLXDE-lubuntu/SubTeams/CodingAndPackagingSubTeamLXDE-lubuntu/SubTeams/DocumentationSubTeamLXDE-lubuntu/SubTeams/TranslationSubTeamLXDE-lubuntu/SupportTeamLaPorteTeamLandingTeamLaptopTestingTeamLaredoTeamLatinoamericaTeamLatvianTeamLebanonTeamLibyaTeamLithuanianTeamLoCoTeamLombardTranslationTeamLouisianaTeamLouisianaTeam/EventsTeamLouisianaTeam/ForumTeamLouisianaTeam/MeetingTeamLouisianaTeam/NewMemberTeamLouisianaTeam/WebTeamLouisianaTeam/WikiTeamLuxembourgianTeamMIRTeamMMTeamMacedonianTeamMactelSupportTeamMaineTeamMalagasyTeamMalaysianTeamMaliTeamMaltaTeamMapaTrabajo/Lucid/HondurasTeamMarketingTeamMarsTeamMarylandTeamMarylandTeam/InstallFestTeamMarylandTeam/MarketingTeamMarylandTeam/PresentationsTeamMarylandTeam/WebTeamMassachusettsTeamMeetingLogs/ArtworkTeamMeetingLogs/AudioTeamMeetingLogs/BugSquadTeamMeetingLogs/DocTeamMeetingLogs/FAITeamMeetingLogs/QATeamMeetingLogs/WisconsinTeamMeetingLogs/devweek0802/SeverTeamMeetingLogs/devweek0809/InstallerTeamMeetingLogs/devweek0809/MozillaTeamMeetingLogs/devweek0809/SecurityTeamMeetingLogs/devweek0809/ServerTeamMeetingLogs/devweek1201/HelpingTheDocsTeamMeetingLogs/devweek1208/DevAdvisoryTeamMeetingLogs/openweekJaunty/NewsTeamMeetingLogs/openweekJaunty/ServerTeamMeetingLogs/openweekKarmic/XubuntuTeamMeetingLogs/openweekNatty/GettingInvolvedViaTheBeginnersTeamMeetingLogs/openweekedgy/BugsquadTeamMeetingLogs/openweekedgy/DesktopTeamMeetingLogs/openweekgutsy/DesktopTeamMeetingLogs/openweekgutsy/DocumentationTeamMeetingLogs/openweekgutsy/KernelTeamMeetingLogs/openweekgutsy/ScreencastTeamMeetingLogs/openweekgutsy/TrainingTeamMeetingLogs/openweekhardy/DocumentationTeamMeetingLogs/openweekhardy/SecurityTeamMeetingLogs/openweekhardy/ServerTeamMeetingLogs/openweekhardy/TrainingTeamMexicanTeamMexicoCityTeamMexicoCityTeam/HeaderTeamMexicoTeamMichiganTeamMigrationTeamMinnesotaTeamMississippiTeamMissouriTeamMobileTeamMoldovaTeamMongolianTeamMontanaTeamMontenegroTeamMontrealTeamMoroccanTeamMozambiqueTeamMozillaTeamMultiseatTeamMyanmarTeamMythTVTeamNUUbuntuTeamNWUUbuntuTeamNYCTeamNZTeamNamibiaTeamNebraskaTeamNepalTeamNevadaTeamNew-User-Experience-TeamNewHampshireTeamNewJerseyTeamNewMexicoTeamNewYorkTeamNewsTeamNicaraguanTeamNigerTeamNigeriaTeamNigerianTeamNlDocumentatieTeamNoNameYetTeamNoVATeamNorthCarolinaTeamNorthCarolinaTeam/LeadershipTeamNorthDakotaTeamNorwegianTeamNzTeamOdessaUbuntuTeamOhioTeamOhioTeam/Deprecated/CommunicationTeamOhioTeam/Deprecated/MarketingTeamOhioTeam/Deprecated/NewUserTeamOklahomaTeamOklahomaTeam/EventsTeamOklahomaTeam/ForumTeamOklahomaTeam/IRCTeamOklahomaTeam/LaunchpadTeamOklahomaTeam/SupportTeamOklahomaTeam/WebTeamOklahomaTeam/WikiTeamOpenSessame/DevTeamOpenSessame/QATeamOregonTeamPDATeamPDXTeamPNWTeamPNYTeamPSQATeamPakistanTeamPakistaniTeamPalestineTeamPanamaTeamParaguayTeamPennsylvaniaTeamPennsylvaniaTeam/CommunityOutreachTeamPennsylvaniaTeam/EventsTeamPennsylvaniaTeam/IRCTeamPennsylvaniaTeam/MediaTeamPennsylvaniaTeam/WebTeamPennsylvaniaTeam/WikiTeamPersianTranslationTeamPeruvianTeamPhilippineTeamPlatformTeamPlusOneMaintenanceTeamPolishTeamPortlandTeamPortugalTeamPortugueseTeamPrecisePangolin/ReleaseNotes/Credits/DocsTeamPrecisePangolin/ReleaseNotes/Credits/ReleaseTeamPuertoRicoTeamQATeamQATeam/UnassignKernelTeamQatariTeamQuantalQuetzal/ReleaseNotes/Credits/DocsTeamQuantalQuetzal/ReleaseNotes/Credits/ReleaseTeamQuebecTeamRTLTeamRaringRingtail/ReleaseNotes/Credits/DocsTeamRaringRingtail/ReleaseNotes/Credits/ReleaseTeamRdcTeamReleaseTeamRepublicaDominicanaTeamReunionTeamReviewersTeamRhodeIslandTeamRichardJohnson/OpenWeek/DocTeamRoadmaps/Lucid/AustralianTeamRoadmaps/Lucid/BeginnersTeamRoadmaps/Lucid/HondurasTeamRoadmaps/Lucid/MinnesotaTeamRoadmaps/Lucid/TestingTeamRomanianTeamRomanianTeam/Teste/RomanianTeamRussianTeamSCUbuntuTeamSaucySalamander/ReleaseNotes/Credits/DocsTeamSaucySalamander/ReleaseNotes/Credits/ReleaseTeamSaudiTeamScottishTeamScreencastTeamScreencastsTeamScribesTeamSecondLifeTeamSecurityTeamSenegalTeamSerbianTeamServerTeamServerTestingTeamShavianTeamSingaporeTeamSlovakTeamSlovakTranslationTeamSlovenianTeamSoIllTeamSouthAfricanTeamSouthCarolinaTeamSouthCarolinaTeam/BlogTeamSouthCarolinaTeam/Prototype/Home/WikiTeamSouthCarolinaTeam/WebTeamSouthCarolinaTeam/WikiTeamSouthDakotaTeamSpainTeamSpanishTeamSpecs/TestingTeamSriLankanTeamStateTeamSudanTeamSugarTeamSupportTeamSwedishTeamSwissTeamSyriaTeamTGTeamTNTeamTaiwanTeamTaiwanTeam/ActTeamTamilTeamTamilTeam/Tamilization_TeamTamil_TeamTanzanianTeamTechPressTeamTennesseeTeamTestimonials_TeamTesting/LoCoTeamTexasTeamTexasTeam/KilleenTeamTexasTeam/Projects/WikiTeamTexasWestTeamThaiTeamTranslation Guidelines of the Tajik Translation TeamTranslationTeamTranslations/CoordinationTeamTranslations/KnowledgeBase/LaunchpadTeamTranslations/KnowledgeBase/StartingTeamTranslations/LanguagePackUpdatesQA/DutchTeamTranslations/QuickStartGuide/JoiningTeamTrinidadandTobagoTeamTunisianTeamTunisianTeam/GamingTeamTurkeyTeamTurkishTeamTurkmenTeamUAETeamUATeamUETeamUKTeamUS-SouthEastTeamUbuntu/AudioTeamUbuntuBeLocoTeamUbuntuBleedingEdgeTeamUbuntuColombianTeamUbuntuCoreDevelopmentTeamUbuntuDRCongoTeamUbuntuDevelopmentTeamUbuntuEcuadorTeamUbuntuEngineering/StableReleaseMatinainanceTeamUbuntuFlavorsTeamUbuntuGNOME/CommunicationsTeamUbuntuGNOME/DocumentationTeamUbuntuHackersTeamUbuntuHighAvailabilityTeamUbuntuMediaCenterTeamUbuntuMxTeamUbuntuStudio/ArtTeamUbuntuStudio/ContributorTeamUbuntuStudio/CoreTeamUbuntuStudio/DevTeamUbuntuStudio/DocumentationTeamUbuntuStudio/IntegrateWithReleaseTeamUbuntuStudio/JoinTheTeamUbuntuStudio/KernelTeamUbuntuStudio/PRSupportTeamUbuntuStudio/PackagingTeamUbuntuStudio/ReleaseTeamUbuntuStudio/TestingTeamUbuntuStudio/UbuntuStudioBugsTeamUbuntuStudio/UbuntuStudioTeamUbuntuStudio/WebsiteTeamUgandaTeamUighurTeamUkrainianTeamUnansweredPostsTeamUpperMichiganTeamUpperPeninsulaTeamUpstreamBugsTeamUruguayTeamUsabiliTeamUserDaysTeamUseresa/NU_Ubuntu_TeamUtahTeamUzbekistanTeamVancouver/SummerWorkshops/TheTeamVancouverTeamVenetianTeamVenezuelaTeamVermontTeamVietnameseTeamVirginiaTeamWashingtonTeamWebsterTexasTeamWelshTeamWestBangalTeamWestBengalTeamWestVirginiaTeamWikiTeamWineTeamWisconsinTeamWyomingTeamX/SwatTeamYemenTeamYsb-SngTeamZATeamZambiaTeamZimbabweTeamamjjawad/Lubuntu-Teamamjjawad/Ubuntu-Teamamjjawad/UbuntuGNOME-Teamcitrain/LandingTeamlojbanistanTeamlyz/CaliforniaTeamubuntu-dk/Arrangementer/LF2007/GodtIgangMedLoCoTeam 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/MarketingTeam/Campaigns/System76 - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+System76
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ MarketingTeam/CampaignsMarketingTeam/Campaigns/HardyReleaseMarketingTeam/Campaigns/UbuntuInBusinessMarketingTeam/Campaigns/UbuntuInStoresMarketingTeam/Materials/seRandomPageRandomTranslationListingOptionSpecificationMarketingTeam/Campaigns/System76 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/NorthCarolinaTeam/Meeting/2009-02-05/Log - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+Log
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ NorthCarolinaTeam/Meeting/2009-02-05NorthCarolinaTeam/Meeting/2009-06-09NorthCarolinaTeam/Meeting/2009-07-07NorthCarolinaTeam/Meeting/2009-08-04NorthCarolinaTeam/Meeting/2009-09-01NorthCarolinaTeam/Meeting/2009-10-06NorthCarolinaTeam/Meeting/2009-12-01NorthCarolinaTeam/Meeting/2009-12-15NorthCarolinaTeam/Meeting/2010-01-05NorthCarolinaTeam/Meeting/2010-02-02RandomPageRandomTranslationListingOptionSpecification5-A-Day/LogBugHelper/BugLogCanadianTeam/Meetings/2010/2010-06-06/LogCanadianTeam/Meetings/2010/2010-07-18/LogCanadianTeam/Meetings/2010/2010-08-22/LogCanadianTeam/Meetings/2010/2010-09-12/LogCanadianTeam/Meetings/2011/2011-06-14/LogCatalanTeam/UDSKarmic/LogCategoryMOTULogChileanTeam/Concilio/Reuniones/2009-06-16/LogChileanTeam/GrupoWiki/CharlaWiki/CW1/LogChileanTeam/GrupoWiki/CharlaWiki/CW2/LogChileanTeam/GrupoWiki/CharlaWiki/CW3/LogChris/Membership/LogDesktopExperienceTeam/MaverickUDSLogMainInclusionKSystemLogMinnesotaTeam/Meetings/MeetingTwo/RawLogNorthCarolinaTeam/Meeting/2009-01-06/LogNorthCarolinaTeam/Meeting/2009-02-05/LogNorthCarolinaTeam/Meeting/2009-04-15/LogNorthCarolinaTeam/Meeting/2009-06-23/LogNorthCarolinaTeam/Meeting/2009-07-21/LogNorthCarolinaTeam/Meeting/2009-08-04/LogNorthCarolinaTeam/Meeting/2009-08-18/LogNorthCarolinaTeam/Meeting/2009-09-01/LogNorthCarolinaTeam/Meeting/2009-09-22/LogNorthCarolinaTeam/Meeting/2009-10-06/LogNorthCarolinaTeam/Meeting/2009-11-03/LogNorthCarolinaTeam/Meeting/2009-12-01/LogNorthCarolinaTeam/Meeting/2009-12-15/LogNorthCarolinaTeam/Meeting/2010-01-05/LogNorthCarolinaTeam/Meeting/2010-02-16/LogPulseAudio/LogQuebecTeam/WebAdminLogSouthCarolinaTeam/24Jan08AgendaLogSouthCarolinaTeam/27March08AgendaLogSouthCarolinaTeam/28Feb08AgendaLogSouthCarolinaTeam/28Feb09AgendaLogSouthCarolinaTeam/28Jan09AgendaLogSouthCarolinaTeam/30April09LogSouthCarolinaTeam/30Jul08AgendaLogTraining/2007-11-01BofLogTraining/Russian/Meetings/01/LogTraining/Russian/Meetings/02/LogTraining/Russian/Meetings/03/LogTraining/Russian/Meetings/04/LogTraining/Russian/Meetings/05/LogTraining/Russian/Meetings/07/LogTraining/Russian/Meetings/08/LogTraining/Russian/Meetings/09/LogUbuntuDevelopment/RevertLogUbuntuMagazine/TranslateFullCircle/Chinese/HistoryLogUbuntuOpenWeek_ES/openweekKarmicLogUbuntuOpenWeek_ES/openweekLucidLogUbuntuOpenWeek_ES/openweekMaverickLogUbuntuOpenWeek_ES/openweekNattyLogUbuntuWeeklyNewsletter/Meetings/20100506/LogUbuntuWeeklyNewsletter/Meetings/20100603/LogUbuntuWeeklyNewsletter/Meetings/20100708/LogUnity/QA/TestLogV A R G U X/CharlaWiki/CW1/LogV A R G U X/CharlaWiki/CW2/LogV A R G U X/CharlaWiki/CW3/LogVirginiaTeam/MeetingMinutes/February72011MeetingLogVirginiaTeam/MeetingMinutes/July062010MeetingLogVirginiaTeam/MeetingMinutes/May0410MeetingLogVirginiaTeam/MeetingMinutes/Nov09MeetingLogVirginiaTeam/MeetingMinutes/October052010MeetingLogWelshTeam/Meetings/14032009/Logforum/Change_Logubuntu-dk/Mder/IRCMde32Logubuntu-dk/Mder/IRCMde34Log 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/Prihantoosa - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+Prihantoosa
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ prihantoosaRandomPageRandomTranslationListingOptionSpecificationPrihantoosa 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/SergioZanchetta/Old/HPDV6324us - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+HPDV6324us
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ SergioZanchetta/Old/HPDV1150USSergioZanchetta/Old/HPDV2000ZSergioZanchetta/Old/HPDV2815nrSergioZanchetta/Old/HPDV5030SergioZanchetta/Old/HPDV6610SergioZanchetta/Old/HPDV6653eoSergioZanchetta/Old/HPDV8210usSergioZanchetta/Old/HPZD7140USSergioZanchetta/Old/HPdv6701vxSergioZanchetta/Old/hp4805usRandomPageRandomTranslationListingOptionSpecificationLaptopTestingTeam/Old/HPDV6324usSergioZanchetta/Old/HPDV6324us 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/SergioZanchetta/Old/HPdv2622ca - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+HPdv2622ca
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ SergioZanchetta/Old/HPDV1190EASergioZanchetta/Old/HPDV2000ZSergioZanchetta/Old/HPDV2315nrSergioZanchetta/Old/HPDV2815nrSergioZanchetta/Old/HPDV6324usSergioZanchetta/Old/HPDV6610SergioZanchetta/Old/HPDV6653eoSergioZanchetta/Old/HPDV8210usSergioZanchetta/Old/HPNX8220SergioZanchetta/Old/HPdv6701vxRandomPageRandomTranslationListingOptionSpecificationLaptopTestingTeam/Old/HPdv2622caSergioZanchetta/Old/HPdv2622ca 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/SethArnold - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+SethArnold
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ RandomPageRandomTranslationListingOptionSpecificationCharlesArnoldSethArnoldStephaneArnoldTonyArnold 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/SiddharthVijayakrishnan - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+SiddharthVijayakrishnan
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ RandomPageRandomTranslationListingOptionSpecificationSiddharthVijayakrishnan 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/SoftwareCenter/RatingsAndReviews - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+RatingsAndReviews
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ SoftwareCenter/AlternativesSoftwareCenter/RatingsAndReviewsGuidelinesSoftwareCenter/RatingsAndReviewsGuidelines/czSoftwareCenter/RatingsAndReviewsGuidelines/esSoftwareCenter/RatingsAndReviewsModerationGuidelinesmarckaplan/SoftwareCenter/FeaturesRandomPageRandomTranslationListingOptionSpecificationAppReviewsAppStore/Interfaces/RatingsAndReviewsLXDE-lubuntu/Marketing/ReviewsMinnesotaTeam/ReviewsSecurityTeam/Specifications/SnappyConfinement/InterfaceReviewsSoftwareCenter/RatingsAndReviewsUbuntuDevelopment/CodeReviewsUbuntuDevelopment/NewCodeReviewsUbuntuMagazine/MonthlyReviewsUnity/CodeReviews 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/SophieGage - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+SophieGage
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ RandomPageRandomTranslationListingOptionSpecificationSophieGage 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/TouchInstallProces - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+TouchInstallProces
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ Touch/Install/OSXTouchInstallProcessaptgetinstallprotocolRandomPageRandomTranslationListingOptionSpecificationTouchInstallProces 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/Translations/Wanted/UbuntuOneEmail/sv - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+sv
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ Translations/Wanted/UbuntuOneEmailTranslations/Wanted/UbuntuOneEmail/astTranslations/Wanted/UbuntuOneEmail/esTranslations/Wanted/UbuntuOneEmail/nbTranslations/Wanted/UbuntuOneEmail/nlTranslations/Wanted/UbuntuOneEmail/ruTranslations/Wanted/UbuntuOneEmail/skTranslations/Wanted/UbuntuOneEmail/slTranslations/Wanted/UbuntuOneEmail/svTranslations/Wanted/UbuntuOneEmail/ugRandomPageRandomTranslationListingOptionSpecification 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/TuxCrafter - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+TuxCrafter
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ RandomPageRandomTranslationListingOptionSpecificationTuxCrafter 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/UDS-Q/OtherAccommodation - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+OtherAccommodation
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ RandomPageRandomTranslationListingOptionSpecificationUDS-N/OtherAccommodationUDS-O/OtherAccommodationUDS-P/OtherAccommodationUDS-Q/OtherAccommodationUDS-R/OtherAccommodation 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/XenEdgy - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+XenEdgy
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ RandomPageRandomTranslationListingOptionSpecificationEdgyInne_podzespoy_-_EdgyInstall_IVTV_EdgyKubuntu/Archives/KubuntuUpgradeEdgyKubuntuDocs/EdgyMigrationAssistance/EdgyOprogramowanie_multimedialne_-_EdgyOprogramowanie_sieciowe_-_EdgyPodzespoy_multimedialne_-_EdgyPodzespoy_sieciowe_-_EdgyRobCaskey/ActiveDirectoryEdgyRussianDocumentation/GoldenWiFiUbuntuEdgyUbuntuMagazine/InstallOfTheMonth/InstallUbuntuEdgyUpdateManagerEdgyXenEdgyXubuntu/Roadmap/Specifications/Edgyrodowiska_graficzne_-_Edgy 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/geeknik - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+geeknik
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ RandomPageRandomTranslationListingOptionSpecification 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+
+
+
+
+
+
+RandomPage/jang0913 - Ubuntu Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Partners 
+ Support 
+ Community 
+ Ubuntu.com 
+
+
+ Ubuntu Wiki 
+
+
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+Ubuntu Wiki
+Login
+Help
+
+
+
+
+
+
+
+jang0913
+
+
+
+
+This page does not exist yet. You can create a new empty page, or use one of the page templates. Create new empty page   Or choose a page template to create an already-formatted page: 
+ Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names: 
+
+  Accessibility/Testing/TaskTemplateAppSpecTemplateArizonaTeam/MeetingTemplateArtwork/Accolades/_TemplateArtwork/Archives/ArchiveTemplateArtwork/Incoming/SubmissionTemplateArtwork/PageTemplateArtwork/Specs/_TemplateAyatana/PageTemplateBeginnersTeam/FocusGroups/YNU/wikiTemplateBugSquad/Mentors/ReportingTemplateCameroonianTeam/Events/ReleasePartyTemplateCameroonianTeam/MeetingsTemplateCameroonianTeamIschoolPresentationTemplateCanadianTeam/Meetings/CanadianTeamMeetingTemplateCategoryTemplateChileanTeam/Templates/AgendaReunionTemplateChileanTeam/Templates/LogReunionTemplateCypriotTeam/MonthCalendarTemplateDebuggingTemplateDerivativeTeam/DerivativesTemplateDerivativeTeam/PageTemplateDesktopTeam/Experiences/CurrentTemplateDesktopTeam/ExperiencesTemplateDesktopTeam/NewMeetingTemplateDevelTeamMeetingTemplateDocumentationTeam/SystemDocumentation/UbuntuServerGuideTemplateEdubuntu/AppTemplateEgyptTeam/TeamReports/TemplateEgyptTeam/Templates/AgendaTemplateEgyptTeam/Templates/IdeaTemplateEventPlanningTemplateFoundationsTeam/MeetingTemplateFullSpecTemplateGamingTeam/Meetings/MinutesTemplateGoogleCodeIn2010/Students/TemplateGoogleSoC2010/Students/TemplateHelpTemplateHomepageBTTemplateHomepageGroupsTemplateHomepagePrivatePageTemplateHomepageReadPageTemplateHomepageReadWritePageTemplateHomepageTemplateInstallFestTemplateIowaTeam/Meetings/MeetingTemplateIsraeliTeam/Hebrew/HebrewTemplateJaredNorris/BlankTemplateKentuckyTeam/Meetings/TemplateKernel/Dev/PPUApplicationTemplateKubuntu/KDEMergesTemplateKubuntuReleaseNotesTemplateKubuntuTemplateLXDE-lubuntu/Applications/LubuntuApplicationsListTemplateLXDE-lubuntu/SubTeams/LubuntuSubTeamsTemplateLXDE-lubuntu/TemplateLaptopTestingTeamTemplateLightweightSpecTemplateLithuanianTeam/Susitikimai/MinutesTemplateLouisianaTeam/PageTemplateLouisianaTeam/SubTeamTemplateMactelSupportTeam/DocTemplateMainInclusionReportTemplateMainInclusionXubuntuReportTemplateMarketingTeam/Meetings/AgendaTemplateMarketingTeam/Meetings/MinutesTemplateMassachusettsTeam/Meetings/MinutesTemplateMembershipTemplateMichiganTeam/Meetings/IRCMeetingTemplateMichiganTeam/Meetings/LogTemplateMichiganTeam/TeamReportsTemplateMinutesTemplateMoroccanTeam/Templates/AgendaTemplateNGO/CaseStudy/TemplateNGO/CaseStudyTemplateNewMexicoTeam/MeetingTemplateNewYorkTeam/Newsletter/TemplateNonLanguagePackTranslationDeadline/BugTemplateNorthCarolinaTeam/MeetingTemplateNorthCarolinaTeam/MonthCalendarTemplateNorthCarolinaTeam/TeamTeamplates/StopTemplateNorthCarolinaTeam/TeamTemplates/LogTemplateNorthCarolinaTeam/TeamTemplates/MeetingTemplateNorthCarolinaTeam/TeamTemplates/NewEventTemplateNorthCarolinaTeamPageTemplateOpenStackCharmsMeetingLogTemplatePNWTeam/projects/OverviewTemplatePageDiscussionTemplatePressReleaseTemplateProcess/Merges/TestPlans/TemplateProcess/Merges/TestPlans/ofono/TestReports/TestReportTemplateProjectGroupsTemplateProjectTemplateQuickly/EditTemplateReleaseTeam/Meeting/Agenda/TeamTemplateRoadmaps/TemplateScreencastTeam/Requests/TemplateScribesTeam/MeetingTemplateSecurityTeam/KnowledgeBase/MediaCoverageTemplateServerTeamMeetingLogTemplateServerTeamMonthlyReportTemplateServerTestingModelTemplateServerTestingResultsTemplateSkunkWorks/ParticipationTemplateSlideShowHandOutTemplateSlideShowTemplateSlideTemplateSouthDakotaTeam/Events/AddingEvents/AgendaTemplateSouthDakotaTeam/Events/AddingEvents/EventsTemplateSouthDakotaTeam/MonthCalendarTemplateSpanishDocumentation/Migration/PageTemplateSpanishDocumentation/Migration/TemplateSpecTemplateSyncJobTemplateTeamPageTemplateTeamReports/MonthTemplateTesting/Walkthrough/SubmissionTemplateTexasTeam/ToolBox/MeetingTemplateThirdPartyWhitelistApplicationTemplateTouch/Devices/PortTemplateTouch/DevicesPortTemplateTranslations/LanguagePackUpdatesQA/LanguagePackUpdateScheduleTemplateTranslations/MeetingTemplateTranslations/TranslationsTemplateTunisianTeam/EventReportTemplateTunisianTeam/Templates/EventTemplateU+1/AgendaTest/AgendaTemplateU+1/sigTemplateUEFI/SecureBoot/ShimUpdateProcess/BugTemplateUEFI/SecureBoot/ShimUpdateProcess/RTTemplateUKTeam/IdeasPool/TemplateUKTeam/MeetingAnnouncementTemplateUSTeams/Meetings/MinutesTemplateUbuntuBugDay/TaskTemplateUbuntuCatalanTranslatorsTemplateUbuntuDevelopment/DeveloperApplicationTemplateUbuntuGermanTranslators/Aufgaben/TemplateUbuntuMXTeam/TemplateUbuntuScientists/TemplateUbuntuStudio/DevPageTemplateUbuntuStudio/ProjectLeadCandidateTemplateUbuntuStudio/UbuntuStudioDevTemplateUbuntuWeeklyNewsletter/IssueTemplateUbuntuWeeklyNewsletter/PLIssueTemplateUbuntuWeeklyNewsletter/SuggestedTemplateUnansweredPostsTeam/PageTemplateUpstream/AdoptingTemplateWelcomeMailTemplateWifiDocs/Device/TemplateWifiDocs/Driver/TemplateXubuntu/Toolbox/SpecificationTemplateZATeam/MeetingTemplatesilverlion/PressTemplateubuntu-dk/Templates/TeamReportTemplate 
+ RandomPageRandomTranslationListingOptionSpecification 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The material on this wiki is available under a free license, see 
+	Copyright / License for details.
+        
+
+
+
+

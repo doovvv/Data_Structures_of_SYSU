@@ -31,7 +31,7 @@ int main() {
         cout<<"choose your operation:";
         string op;
         cin>>op;
-        if(op == "A" || op == "c"){
+        if(op == "A" || op == "a"){
             search_name(hash_table,mode);
         }
         else if(op == "C" || op == "c"){

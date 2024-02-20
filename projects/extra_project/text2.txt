@@ -1,0 +1,57 @@
+Jono Bacon
+Hello! I am Jono Bacon, and I work for Canonical as the Ubuntu Community Manager (UCM). As the UCM I am here to help the Ubuntu community tick along, ensure teams can work together easily, help build LoCo teams, work with upstream communities and more. Importantly, I am here for the Ubuntu community as someone to consult with with any community related issues. If you're unsure of anything, want to flesh some ideas out, or just want some advice, give me a yell. Smile :)
+
+www.jonobacon.org
+
+Contact Details
+IRC: jono (irc.freenode.net)
+
+Email: jono(at)ubuntu(dot)com
+
+Also see my Launchpad Profile.
+
+Where to find me
+I am on the following lists:
+
+kubuntu-devel
+ubuntu-devel
+loco-contacts
+ubuntu-desktop
+ubuntu-devel
+ubuntu-devel-announce
+ubuntu-marketing
+ubuntu-motu
+ubuntu-uk
+IRC:
+
+#ubuntu-devel
+#ubuntu-desktop
+#ubuntu-locoteams
+#ubuntu-uk
+#gstreamer
+#jokosher
+#lugradio
+Contributions
+Ubuntu:
+
+My involvement in Ubuntu is fairly recent, but has included the following:
+
+I co-wrote the Official Ubuntu Book and worked with community to get a number of community recipes for inclusion in one of the chapters. The book is available under a CC license.
+As a consultant for a UK funded organisation I would test, evaluate and report on Ubuntu, reporting feedback to developers.
+Bug reporting.
+Public speaking about Ubuntu and the direction of the Linux desktop.
+On Sep 1st I started work with Canonical as the Ubuntu Community Manager.
+Other contributions:
+
+Lead developer of the Jokosher project.
+
+Former KDE developer and founder of the KDE Usability Study, KDE::Enterprise and official UK KDE Representative.
+Co-founder of the LUGRadio podcast.
+Founder of Wolves LUG, PHP West Midlands, Infopoint project.
+Author of Raccoonshow, GNOME iRiver, XAMPP Control Panel and other small utilities.
+Author of three books on free software (Official Ubuntu Book, Linux Desktop Hacks, PHP and MySQL Application Development (tbp)) and over 400 articles about free software.
+Founder of Linux UK, one of the first UK Linux websites.
+Member of the OpenDocument Fellowship.
+
+
+CategoryHomepage CategoryCanonicalEmployee

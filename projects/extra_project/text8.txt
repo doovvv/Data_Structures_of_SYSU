@@ -1,0 +1,2345 @@
+arm-m-archive-branching (2/0/18)
+
+Ready for review, fairly complete requirements, but lacking some in implementation design right now. Work items need to be broken down in to milestones.
+
+Todo
+
+arm-m-automated-testing-framework (0/0/15)
+
+Drafting
+
+Todo
+
+arm-m-debugging-with-oprofile (0/0/1)
+
+Ensure that relevant patches (for perf events and oprofile) are in the release kernel tree(s) Rally future efforts around this support, for example BSPs Generate appropriate blueprints/specs for specific areas of development
+
+Todo
+
+arm-m-derived-archive-rebuild (0/6/12)
+
+Ready for review
+
+Todo
+
+arm-m-development-tools (0/0/37)
+
+Good progress although still has some loose ends
+
+Todo
+
+arm-m-image-building-console (0/0/11)
+
+Drafting
+
+Todo
+
+arm-m-image-building-tool (0/0/14)
+
+Ready for review.
+
+Todo
+
+arm-m-testsuites-and-profilers (0/0/10)
+
+Investigate, decide on, and prioritize the testsuites and profiling tools that would be most useful to run on ARM devices in an automated testing environment.
+
+Todo
+
+arm-m-validation-dashboard (4/0/32)
+
+Drafting again after feedback
+
+Todo
+
+arm-m-webkit-and-browser-performance (0/0/7)
+
+Approved.
+
+Todo
+
+community-m-advocate-daily-builds (0/0/3)
+
+Advocate, promote and enthuse the use of daily builds for a range of tasks
+
+Todo
+
+community-m-debian-healthcheck (0/0/3)
+
+Our usual assessment of Debian/Ubuntu relations.
+
+Todo
+
+community-m-patch-review-process (0/0/1)
+
+Patch Review Process Review
+
+Todo
+
+Activity Task Status
+Blueprint/Activity
+
+Task
+
+Assignee
+
+Milestone
+
+Status
+
+arm-m-archive-branching (2/0/18)
+
+Define database schema to represent packages and relationships with the parents
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Implement HTML-based modification of package database
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Implement accepting of new packages and updating database
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Implement authentication in sftp servier
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Implement checking of uploads against GPG database
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Implement database models in code
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Implement publishing of packages based on database state
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Implement registration of GPG keys
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Implement ssh key storage in database
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Implement standard views of archive, with current state of each package etc. (break down in to individual work items)
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Implement user access controls
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Make Launchpad use sftp server split out
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Make launchpad use split-out archivepublisher
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Make use of sftp server for accepting uploads in vostok
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Split archivepublisher out of Launchpad
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Split sftp server out of Launchpad
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Implement sftp server to accept uploads
+
+james-w
+
+ubuntu-10.10
+
+Complete
+
+Investigate suitability of reprepro and other tools for extending to understand derivation
+
+james-w
+
+ubuntu-10.10
+
+Complete
+
+arm-m-automated-testing-framework (0/0/15)
+
+Add support for collection of results
+
+pwlars
+
+Todo
+
+Add support for pushing results to a repository
+
+pwlars
+
+Todo
+
+Allow authentication and results pushed from the test client
+
+pwlars
+
+Todo
+
+Allow for dashboard to read results
+
+pwlars
+
+Todo
+
+Allow for profilers to be run while testing
+
+pwlars
+
+Todo
+
+Create skeleton client framework
+
+pwlars
+
+Todo
+
+Define format for pushing results to the server
+
+pwlars
+
+Todo
+
+Design database schema for storing test results
+
+pwlars
+
+Todo
+
+Make client capable of running tests
+
+pwlars
+
+Todo
+
+Package the test client for installation
+
+pwlars
+
+Todo
+
+Setup project in launchpad for validation tools
+
+pwlars
+
+Todo
+
+Support installation of dependencies
+
+pwlars
+
+Todo
+
+Support installation of tests
+
+pwlars
+
+Todo
+
+Support registration and configuration for communicating with server
+
+pwlars
+
+Todo
+
+Write test definition files for individual tests to run
+
+pwlars
+
+Todo
+
+arm-m-debugging-with-oprofile (0/0/1)
+
+Investigate the potential for cross-profiling [in particular, where the debug symbols / binary are placed]
+
+scottb
+
+Todo
+
+arm-m-derived-archive-rebuild (0/6/12)
+
+Contact IS to discuss disk space requirements and buildd load
+
+james-w
+
+Todo
+
+Document how to set up copy archive with different toolchain
+
+james-w
+
+Todo
+
+Implement ACL for creating copy archives in LP
+
+james-w
+
+Todo
+
+Implement API for requesting creation of copy archive
+
+james-w
+
+Todo
+
+Implement ability in Launchpad to subset archive when creating copy archive
+
+james-w
+
+Todo
+
+Implement using the Launchpad job system to create copy archives
+
+james-w
+
+Todo
+
+Implement API support for requesting rebuilds
+
+james-w
+
+Postponed
+
+Implement HTML support for requesting rebuilds
+
+james-w
+
+Postponed
+
+Implement a script to approximate rebuilds by making sourceful uploads
+
+james-w
+
+Postponed
+
+Implement adding build records for successful builds
+
+james-w
+
+Postponed
+
+Implement marking whether an archive should allow rebuilds
+
+james-w
+
+Postponed
+
+Implement version support in build records to indicate rebuild version number
+
+james-w
+
+Postponed
+
+arm-m-development-tools (0/0/37)
+
+design oauth credentials manager
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+discuss default version numbers
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+discuss how we'll deal with multiple source branches of a given package in the same workspace
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+discuss/design how we're going to present a list of options to users
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+discuss/design non-native building of source packages
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+discuss/design wrapper around devscripts
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+evaluate test runners and pick one to use
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement adding entry to changelog, when modifying a package
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement appending of archives
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement binary package upload
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement binary-package building from source package
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement branching of archives
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement cache of binary packages in workspace
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement command to show list of modified packages between archives
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement default version numbers
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement fetching of source packages
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement freezing of archives
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement help command
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement launchpadlib-like lib for vostok
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement merging a branch from a parent archive into a working tree
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement merging an upstream branch into a working tree
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement non-native building (possibly in a chroot with x-deb) of source packages
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement oauth credentials manager
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement pushing a bzr working tree to its parent branch
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement querying the archive management software for details about the archive
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement sftp uploader
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement source package upload
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement source-package building from bzr working tree
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement subcommand framework
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement submission of changes for review
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement submission of changes to upstream archive
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement triggering a build from a branch
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement triggering a build from a source package
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement workspace creation
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+implement wrapper around devscripts
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+set up some sort of continuous integration (not PQM, please)
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+write user documentation
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+arm-m-image-building-console (0/0/11)
+
+open source lexbuilder - check can run from not /srv
+
+mwhudson
+
+Todo
+
+open source lexbuilder - choose a license
+
+mwhudson
+
+Todo
+
+open source lexbuilder - choose a name
+
+mwhudson
+
+Todo
+
+open source lexbuilder - clean up settings
+
+mwhudson
+
+Todo
+
+open source lexbuilder - do it
+
+mwhudson
+
+Todo
+
+open source lexbuilder - retheme
+
+mwhudson
+
+Todo
+
+open source lexbuilder - review all code for sensitive stuff
+
+mwhudson
+
+Todo
+
+open source lexbuilder - rewrite notifications
+
+mwhudson
+
+Todo
+
+open source lexbuilder - sources.list passwords
+
+mwhudson
+
+Todo
+
+open source lexbuilder - support absolute URL for config branch
+
+mwhudson
+
+Todo
+
+open source lexbuilder - team access hard coded to Canonical
+
+mwhudson
+
+Todo
+
+arm-m-image-building-tool (0/0/14)
+
+add ARM bootloader support (u-boot)
+
+mwhudson
+
+Todo
+
+change the creation of config files to output a minimal configuration
+
+mwhudson
+
+Todo
+
+configuration schema definition format
+
+mwhudson
+
+Todo
+
+generate lh cgi script from schema
+
+mwhudson
+
+Todo
+
+generate lh config from schema
+
+mwhudson
+
+Todo
+
+generate lh config manpage from schema
+
+mwhudson
+
+Todo
+
+improve live-helper documentation
+
+mwhudson
+
+Todo
+
+python library to parse and write LH config
+
+mwhudson
+
+Todo
+
+python library to parse configuration schema
+
+mwhudson
+
+Todo
+
+refractor live-helper to add support for builds that produce multiple tarballs/multiple-partition images
+
+mwhudson
+
+Todo
+
+shell script to parse and write LH config
+
+mwhudson
+
+Todo
+
+shell script to parse configuration schema
+
+mwhudson
+
+Todo
+
+test whether live-helper can work with a minimal configuration
+
+mwhudson
+
+Todo
+
+write configuration schema file
+
+mwhudson
+
+Todo
+
+arm-m-testsuites-and-profilers (0/0/10)
+
+Baseline results and time Phoronix
+
+pwlars
+
+Todo
+
+Baseline results and time for LTP
+
+pwlars
+
+Todo
+
+Establish LTP set of tests to run
+
+pwlars
+
+Todo
+
+Establish set of Phoronix tests to run
+
+pwlars
+
+Todo
+
+Feedback on additional ARM sanity checks we might want to create
+
+dave-martin-arm
+
+Todo
+
+Feedback on any testsuites or benchmarks ARM has which are relevant
+
+dave-martin-arm
+
+Todo
+
+Investigate Ofono Testsuite
+
+pwlars
+
+Todo
+
+Investigate OpenPosix Testsuite
+
+pwlars
+
+Todo
+
+Investigate Openmoko Testsuite
+
+pwlars
+
+Todo
+
+Investigate autobench tests
+
+pwlars
+
+Todo
+
+arm-m-validation-dashboard (4/0/32)
+
+Add support for rendering baseline in all quantitative views
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Add support for setting baselines on a per (device class, probe) basis
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Choose technology and library to render graphs (client-side: canvas, svg, server side: png)
+
+zkrynicki
+
+maverick-alpha-1
+
+Todo
+
+Create example data for development
+
+zkrynicki
+
+maverick-alpha-1
+
+Todo
+
+Create first dummy but running instance for development
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Create website mockups
+
+zkrynicki
+
+maverick-alpha-1
+
+Todo
+
+Document database model and publish description document on the project page
+
+zkrynicki
+
+maverick-alpha-1
+
+Todo
+
+Document workflow examples and publish description document on the project page
+
+zkrynicki
+
+maverick-alpha-1
+
+Todo
+
+Extend test run view to show failing results and brief summary of the good results
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Get the file submission mechanism past reviews into the trunk
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement API for accessing uploaded content inside the system
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement JSON friendly sample serialization
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement and sign off design API for file storage with rest of the team
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement client side aggregate qualitative summary view for a collection of samples
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement client side discrete qualitative view for single sample
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement client side discrete quantitative view for single sample
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement client side history view for discrete quantitative view for a collection of samples from a single emitter
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement client side quantitative view for collection of samples with time measurements
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement file submission mechanism
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement image view aggregating qualitative test failures from all runs against this image
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement sample and probe module and sign off the API with Paul Larson
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement sample storage within the django models in a way that shares the API
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement simple submission tool for doing test uploads
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement support for multiple data series for aggregate qualitative summary view
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement support for multiple data series for discrete quantitative view
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Implement test run view that shows all results associated with this run
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Pick up existing open source library for client side graph rendering
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Setup project with trunk and personal branches
+
+zkrynicki
+
+maverick-alpha-2
+
+Todo
+
+Check django-over-storm model usage examples from U1 sources
+
+zkrynicki
+
+maverick-alpha-1
+
+Complete
+
+Check hudson for extra insight/reuse options
+
+zkrynicki
+
+maverick-alpha-1
+
+Complete
+
+Create dashboard presentation for tools sprint in Cambridge
+
+zkrynicki
+
+maverick-alpha-1
+
+Complete
+
+Setup launchpad project for dashboard component
+
+zkrynicki
+
+maverick-alpha-1
+
+Complete
+
+arm-m-webkit-and-browser-performance (0/0/7)
+
+Investigate javascript performance benchmarks
+
+pwlars
+
+Todo
+
+create or modify sample webpages to test page load performance
+
+pwlars
+
+Todo
+
+script to instrument a page and measure page load time
+
+pwlars
+
+Todo
+
+script to launch browser and measure browser load time
+
+pwlars
+
+Todo
+
+script to launch page load time tests in browser and collect results
+
+pwlars
+
+Todo
+
+script(s) to collect and log results from javascript benchmarks
+
+pwlars
+
+Todo
+
+script(s) to execute javascript benchmarks
+
+pwlars
+
+Todo
+
+community-m-advocate-daily-builds (0/0/3)
+
+convenience command to trigger build in LP
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+do tuition sessions (ubuntu open week, ubuntu developer week, packaging training sessions)
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+file bug on apport so that it allows you to file a bug on upstream if running daily (source hook)
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+community-m-debian-healthcheck (0/0/3)
+
+Talk to lp about expose open bugs with patches in LP +text interface ()
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+talk to launchpad people about exposing history through UDD (perhaps a srcpkg2html tool for patch-tracker.debian.org?)
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+talks to LP to improve/replace patches.ubuntu.com
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+community-m-patch-review-process (0/0/1)
+
+speak with jml re merge proposals for patches (merge conflict - error - push output to ppa) - sending upstream - need well defined spec on this & udd
+
+james-w
+
+ubuntu-10.10
+
+Todo
+
+Total (6/6/164) 7%
+
+Milestone maverick-alpha-1
+Blueprint/Activity
+
+Task
+
+Assignee
+
+Status
+
+arm-m-validation-dashboard (4/0/9)
+
+Choose technology and library to render graphs (client-side: canvas, svg, server side: png)
+
+zkrynicki
+
+Todo
+
+Create example data for development
+
+zkrynicki
+
+Todo
+
+Create website mockups
+
+zkrynicki
+
+Todo
+
+Document database model and publish description document on the project page
+
+zkrynicki
+
+Todo
+
+Document workflow examples and publish description document on the project page
+
+zkrynicki
+
+Todo
+
+Check django-over-storm model usage examples from U1 sources
+
+zkrynicki
+
+Complete
+
+Check hudson for extra insight/reuse options
+
+zkrynicki
+
+Complete
+
+Create dashboard presentation for tools sprint in Cambridge
+
+zkrynicki
+
+Complete
+
+Setup launchpad project for dashboard component
+
+zkrynicki
+
+Complete
+
+Total (4/0/9) 44%
+
+Milestone maverick-alpha-2
+Blueprint/Activity
+
+Task
+
+Assignee
+
+Status
+
+arm-m-validation-dashboard (0/0/23)
+
+Add support for rendering baseline in all quantitative views
+
+zkrynicki
+
+Todo
+
+Add support for setting baselines on a per (device class, probe) basis
+
+zkrynicki
+
+Todo
+
+Create first dummy but running instance for development
+
+zkrynicki
+
+Todo
+
+Extend test run view to show failing results and brief summary of the good results
+
+zkrynicki
+
+Todo
+
+Get the file submission mechanism past reviews into the trunk
+
+zkrynicki
+
+Todo
+
+Implement API for accessing uploaded content inside the system
+
+zkrynicki
+
+Todo
+
+Implement JSON friendly sample serialization
+
+zkrynicki
+
+Todo
+
+Implement and sign off design API for file storage with rest of the team
+
+zkrynicki
+
+Todo
+
+Implement client side aggregate qualitative summary view for a collection of samples
+
+zkrynicki
+
+Todo
+
+Implement client side discrete qualitative view for single sample
+
+zkrynicki
+
+Todo
+
+Implement client side discrete quantitative view for single sample
+
+zkrynicki
+
+Todo
+
+Implement client side history view for discrete quantitative view for a collection of samples from a single emitter
+
+zkrynicki
+
+Todo
+
+Implement client side quantitative view for collection of samples with time measurements
+
+zkrynicki
+
+Todo
+
+Implement file submission mechanism
+
+zkrynicki
+
+Todo
+
+Implement image view aggregating qualitative test failures from all runs against this image
+
+zkrynicki
+
+Todo
+
+Implement sample and probe module and sign off the API with Paul Larson
+
+zkrynicki
+
+Todo
+
+Implement sample storage within the django models in a way that shares the API
+
+zkrynicki
+
+Todo
+
+Implement simple submission tool for doing test uploads
+
+zkrynicki
+
+Todo
+
+Implement support for multiple data series for aggregate qualitative summary view
+
+zkrynicki
+
+Todo
+
+Implement support for multiple data series for discrete quantitative view
+
+zkrynicki
+
+Todo
+
+Implement test run view that shows all results associated with this run
+
+zkrynicki
+
+Todo
+
+Pick up existing open source library for client side graph rendering
+
+zkrynicki
+
+Todo
+
+Setup project with trunk and personal branches
+
+zkrynicki
+
+Todo
+
+Total (0/0/23) 0%
+
+Milestone ubuntu-10.10
+Blueprint/Activity
+
+Task
+
+Assignee
+
+Status
+
+arm-m-archive-branching (2/0/18)
+
+Define database schema to represent packages and relationships with the parents
+
+james-w
+
+Todo
+
+Implement HTML-based modification of package database
+
+james-w
+
+Todo
+
+Implement accepting of new packages and updating database
+
+james-w
+
+Todo
+
+Implement authentication in sftp servier
+
+james-w
+
+Todo
+
+Implement checking of uploads against GPG database
+
+james-w
+
+Todo
+
+Implement database models in code
+
+james-w
+
+Todo
+
+Implement publishing of packages based on database state
+
+james-w
+
+Todo
+
+Implement registration of GPG keys
+
+james-w
+
+Todo
+
+Implement ssh key storage in database
+
+james-w
+
+Todo
+
+Implement standard views of archive, with current state of each package etc. (break down in to individual work items)
+
+james-w
+
+Todo
+
+Implement user access controls
+
+james-w
+
+Todo
+
+Make Launchpad use sftp server split out
+
+james-w
+
+Todo
+
+Make launchpad use split-out archivepublisher
+
+james-w
+
+Todo
+
+Make use of sftp server for accepting uploads in vostok
+
+james-w
+
+Todo
+
+Split archivepublisher out of Launchpad
+
+james-w
+
+Todo
+
+Split sftp server out of Launchpad
+
+james-w
+
+Todo
+
+Implement sftp server to accept uploads
+
+james-w
+
+Complete
+
+Investigate suitability of reprepro and other tools for extending to understand derivation
+
+james-w
+
+Complete
+
+arm-m-development-tools (0/0/37)
+
+design oauth credentials manager
+
+james-w
+
+Todo
+
+discuss default version numbers
+
+james-w
+
+Todo
+
+discuss how we'll deal with multiple source branches of a given package in the same workspace
+
+james-w
+
+Todo
+
+discuss/design how we're going to present a list of options to users
+
+james-w
+
+Todo
+
+discuss/design non-native building of source packages
+
+james-w
+
+Todo
+
+discuss/design wrapper around devscripts
+
+james-w
+
+Todo
+
+evaluate test runners and pick one to use
+
+james-w
+
+Todo
+
+implement adding entry to changelog, when modifying a package
+
+james-w
+
+Todo
+
+implement appending of archives
+
+james-w
+
+Todo
+
+implement binary package upload
+
+james-w
+
+Todo
+
+implement binary-package building from source package
+
+james-w
+
+Todo
+
+implement branching of archives
+
+james-w
+
+Todo
+
+implement cache of binary packages in workspace
+
+james-w
+
+Todo
+
+implement command to show list of modified packages between archives
+
+james-w
+
+Todo
+
+implement default version numbers
+
+james-w
+
+Todo
+
+implement fetching of source packages
+
+james-w
+
+Todo
+
+implement freezing of archives
+
+james-w
+
+Todo
+
+implement help command
+
+james-w
+
+Todo
+
+implement launchpadlib-like lib for vostok
+
+james-w
+
+Todo
+
+implement merging a branch from a parent archive into a working tree
+
+james-w
+
+Todo
+
+implement merging an upstream branch into a working tree
+
+james-w
+
+Todo
+
+implement non-native building (possibly in a chroot with x-deb) of source packages
+
+james-w
+
+Todo
+
+implement oauth credentials manager
+
+james-w
+
+Todo
+
+implement pushing a bzr working tree to its parent branch
+
+james-w
+
+Todo
+
+implement querying the archive management software for details about the archive
+
+james-w
+
+Todo
+
+implement sftp uploader
+
+james-w
+
+Todo
+
+implement source package upload
+
+james-w
+
+Todo
+
+implement source-package building from bzr working tree
+
+james-w
+
+Todo
+
+implement subcommand framework
+
+james-w
+
+Todo
+
+implement submission of changes for review
+
+james-w
+
+Todo
+
+implement submission of changes to upstream archive
+
+james-w
+
+Todo
+
+implement triggering a build from a branch
+
+james-w
+
+Todo
+
+implement triggering a build from a source package
+
+james-w
+
+Todo
+
+implement workspace creation
+
+james-w
+
+Todo
+
+implement wrapper around devscripts
+
+james-w
+
+Todo
+
+set up some sort of continuous integration (not PQM, please)
+
+james-w
+
+Todo
+
+write user documentation
+
+james-w
+
+Todo
+
+community-m-advocate-daily-builds (0/0/3)
+
+convenience command to trigger build in LP
+
+james-w
+
+Todo
+
+do tuition sessions (ubuntu open week, ubuntu developer week, packaging training sessions)
+
+james-w
+
+Todo
+
+file bug on apport so that it allows you to file a bug on upstream if running daily (source hook)
+
+james-w
+
+Todo
+
+community-m-debian-healthcheck (0/0/3)
+
+Talk to lp about expose open bugs with patches in LP +text interface ()
+
+james-w
+
+Todo
+
+talk to launchpad people about exposing history through UDD (perhaps a srcpkg2html tool for patch-tracker.debian.org?)
+
+james-w
+
+Todo
+
+talks to LP to improve/replace patches.ubuntu.com
+
+james-w
+
+Todo
+
+community-m-patch-review-process (0/0/1)
+
+speak with jml re merge proposals for patches (merge conflict - error - push output to ppa) - sending upstream - need well defined spec on this & udd
+
+james-w
+
+Todo
+
+Total (2/0/62) 3%
+
+Milestone None
+Blueprint/Activity
+
+Task
+
+Assignee
+
+Status
+
+arm-m-automated-testing-framework (0/0/15)
+
+Add support for collection of results
+
+pwlars
+
+Todo
+
+Add support for pushing results to a repository
+
+pwlars
+
+Todo
+
+Allow authentication and results pushed from the test client
+
+pwlars
+
+Todo
+
+Allow for dashboard to read results
+
+pwlars
+
+Todo
+
+Allow for profilers to be run while testing
+
+pwlars
+
+Todo
+
+Create skeleton client framework
+
+pwlars
+
+Todo
+
+Define format for pushing results to the server
+
+pwlars
+
+Todo
+
+Design database schema for storing test results
+
+pwlars
+
+Todo
+
+Make client capable of running tests
+
+pwlars
+
+Todo
+
+Package the test client for installation
+
+pwlars
+
+Todo
+
+Setup project in launchpad for validation tools
+
+pwlars
+
+Todo
+
+Support installation of dependencies
+
+pwlars
+
+Todo
+
+Support installation of tests
+
+pwlars
+
+Todo
+
+Support registration and configuration for communicating with server
+
+pwlars
+
+Todo
+
+Write test definition files for individual tests to run
+
+pwlars
+
+Todo
+
+arm-m-debugging-with-oprofile (0/0/1)
+
+Investigate the potential for cross-profiling [in particular, where the debug symbols / binary are placed]
+
+scottb
+
+Todo
+
+arm-m-derived-archive-rebuild (0/6/12)
+
+Contact IS to discuss disk space requirements and buildd load
+
+james-w
+
+Todo
+
+Document how to set up copy archive with different toolchain
+
+james-w
+
+Todo
+
+Implement ACL for creating copy archives in LP
+
+james-w
+
+Todo
+
+Implement API for requesting creation of copy archive
+
+james-w
+
+Todo
+
+Implement ability in Launchpad to subset archive when creating copy archive
+
+james-w
+
+Todo
+
+Implement using the Launchpad job system to create copy archives
+
+james-w
+
+Todo
+
+Implement API support for requesting rebuilds
+
+james-w
+
+Postponed
+
+Implement HTML support for requesting rebuilds
+
+james-w
+
+Postponed
+
+Implement a script to approximate rebuilds by making sourceful uploads
+
+james-w
+
+Postponed
+
+Implement adding build records for successful builds
+
+james-w
+
+Postponed
+
+Implement marking whether an archive should allow rebuilds
+
+james-w
+
+Postponed
+
+Implement version support in build records to indicate rebuild version number
+
+james-w
+
+Postponed
+
+arm-m-image-building-console (0/0/11)
+
+open source lexbuilder - check can run from not /srv
+
+mwhudson
+
+Todo
+
+open source lexbuilder - choose a license
+
+mwhudson
+
+Todo
+
+open source lexbuilder - choose a name
+
+mwhudson
+
+Todo
+
+open source lexbuilder - clean up settings
+
+mwhudson
+
+Todo
+
+open source lexbuilder - do it
+
+mwhudson
+
+Todo
+
+open source lexbuilder - retheme
+
+mwhudson
+
+Todo
+
+open source lexbuilder - review all code for sensitive stuff
+
+mwhudson
+
+Todo
+
+open source lexbuilder - rewrite notifications
+
+mwhudson
+
+Todo
+
+open source lexbuilder - sources.list passwords
+
+mwhudson
+
+Todo
+
+open source lexbuilder - support absolute URL for config branch
+
+mwhudson
+
+Todo
+
+open source lexbuilder - team access hard coded to Canonical
+
+mwhudson
+
+Todo
+
+arm-m-image-building-tool (0/0/14)
+
+add ARM bootloader support (u-boot)
+
+mwhudson
+
+Todo
+
+change the creation of config files to output a minimal configuration
+
+mwhudson
+
+Todo
+
+configuration schema definition format
+
+mwhudson
+
+Todo
+
+generate lh cgi script from schema
+
+mwhudson
+
+Todo
+
+generate lh config from schema
+
+mwhudson
+
+Todo
+
+generate lh config manpage from schema
+
+mwhudson
+
+Todo
+
+improve live-helper documentation
+
+mwhudson
+
+Todo
+
+python library to parse and write LH config
+
+mwhudson
+
+Todo
+
+python library to parse configuration schema
+
+mwhudson
+
+Todo
+
+refractor live-helper to add support for builds that produce multiple tarballs/multiple-partition images
+
+mwhudson
+
+Todo
+
+shell script to parse and write LH config
+
+mwhudson
+
+Todo
+
+shell script to parse configuration schema
+
+mwhudson
+
+Todo
+
+test whether live-helper can work with a minimal configuration
+
+mwhudson
+
+Todo
+
+write configuration schema file
+
+mwhudson
+
+Todo
+
+arm-m-testsuites-and-profilers (0/0/10)
+
+Baseline results and time Phoronix
+
+pwlars
+
+Todo
+
+Baseline results and time for LTP
+
+pwlars
+
+Todo
+
+Establish LTP set of tests to run
+
+pwlars
+
+Todo
+
+Establish set of Phoronix tests to run
+
+pwlars
+
+Todo
+
+Feedback on additional ARM sanity checks we might want to create
+
+dave-martin-arm
+
+Todo
+
+Feedback on any testsuites or benchmarks ARM has which are relevant
+
+dave-martin-arm
+
+Todo
+
+Investigate Ofono Testsuite
+
+pwlars
+
+Todo
+
+Investigate OpenPosix Testsuite
+
+pwlars
+
+Todo
+
+Investigate Openmoko Testsuite
+
+pwlars
+
+Todo
+
+Investigate autobench tests
+
+pwlars
+
+Todo
+
+arm-m-webkit-and-browser-performance (0/0/7)
+
+Investigate javascript performance benchmarks
+
+pwlars
+
+Todo
+
+create or modify sample webpages to test page load performance
+
+pwlars
+
+Todo
+
+script to instrument a page and measure page load time
+
+pwlars
+
+Todo
+
+script to launch browser and measure browser load time
+
+pwlars
+
+Todo
+
+script to launch page load time tests in browser and collect results
+
+pwlars
+
+Todo
+
+script(s) to collect and log results from javascript benchmarks
+
+pwlars
+
+Todo
+
+script(s) to execute javascript benchmarks
+
+pwlars
+
+Todo
+
+Total (0/6/70) 8%
+

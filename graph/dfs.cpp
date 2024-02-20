@@ -8,7 +8,7 @@ void dfs(GraphList *g, int i, vector<int>& visited){
     while(e != nullptr){
         if(visited[e->adjvex] == 0){
             //cout << e->tail << " ";
-            dfs(g, e->adjvex, visited);// use reverse to dfs the unvisited vertex
+            dfs(g, e->adjvex, visited);// use recursion to dfs the unvisited vertex
         }
         e = e->next;
     }

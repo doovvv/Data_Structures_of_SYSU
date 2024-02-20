@@ -102,7 +102,7 @@ void search_name(vector<vector<Hash>>& hash_table,int mode){
         int flag = 0;
         for(int i = 0;i<hash_table[address].size();i++){
             if(hash_table[address][i].name == name){
-                cout<<"name:"<<name<<"  "<<"key:"<<hash_table[temp_address][0].key<<"  "<<"search_length:"<<hash_table[temp_address][0].sum<<"  "<<"address:"<<temp_address<<endl;
+                cout<<"name:"<<name<<"  "<<"key:"<<hash_table[temp_address][0].key<<"  "<<"search_length:"<<hash_table[temp_address][i].sum<<"  "<<"address:"<<temp_address<<endl;
                 flag = 1;
                 break;
             }
